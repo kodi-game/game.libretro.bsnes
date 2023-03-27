@@ -1,13 +1,11 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.bsnes2014-balanced.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.bsnes2014-balanced)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.bsnes2014-balanced?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-bsnes2014-balanced)
+[![Build Status](https://travis-ci.org/kodi-game/game.libretro.bsnes.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.bsnes)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.bsnes?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-bsnes)
 
-# Nintendo - SNES / SFC (bsnes 2014 Balanced)
+# Nintendo - SNES / SFC (bsnes)
 
 ### Description
 
-A libretro fork of bSNES. As close to upstream as possible.
-
-The *Balanced* profile is a good compromise between accuracy and performance.
+bsnes is a multi-platform Super Nintendo (Super Famicom) emulator from Near / Byuu that focuses on performance, features, and ease of use.
 
 ### License
 
@@ -15,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Nintendo - SNES / SFC (bsnes 2014 Balanced) icon](game.libretro.bsnes2014-balanced/resources/icon.png)
+![Nintendo - SNES / SFC (bsnes) icon](game.libretro.bsnes/resources/icon.png)
 
 ### Fanart
 
@@ -23,9 +21,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Nintendo - SNES / SFC (bsnes 2014 Balanced) screenshot](game.libretro.bsnes2014-balanced/resources/screenshot-01.jpg)
-![Nintendo - SNES / SFC (bsnes 2014 Balanced) screenshot](game.libretro.bsnes2014-balanced/resources/screenshot-02.jpg)
-![Nintendo - SNES / SFC (bsnes 2014 Balanced) screenshot](game.libretro.bsnes2014-balanced/resources/screenshot-03.jpg)
+![Nintendo - SNES / SFC (bsnes) screenshot](game.libretro.bsnes/resources/screenshot-01.jpg)
+![Nintendo - SNES / SFC (bsnes) screenshot](game.libretro.bsnes/resources/screenshot-02.jpg)
+![Nintendo - SNES / SFC (bsnes) screenshot](game.libretro.bsnes/resources/screenshot-03.jpg)
 
 ### Disclaimer
 

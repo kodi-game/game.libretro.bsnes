@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'kodi-game/game.libretro.bsnes2014-balanced'
+    if: github.repository == 'kodi-game/game.libretro.bsnes'
     runs-on: ubuntu-latest
 
     steps:
