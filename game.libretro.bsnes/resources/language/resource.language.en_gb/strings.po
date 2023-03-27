@@ -33,105 +33,109 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Aspect Ratio"
+msgid "Preferred Aspect Ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Blur emulation"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Entropy (randomization)"
+msgid "Blur Emulation"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Hotfixes"
+msgid "PPU (Video) - Fast Mode"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CPU Overclocking"
+msgid "PPU (Video) - Deinterlace"
 msgstr ""
 
 msgctxt "#30006"
-msgid "CPU Fast Math"
+msgid "PPU (Video) - No Sprite Limit"
 msgstr ""
 
 msgctxt "#30007"
-msgid "SA1 Coprocessor Overclocking"
+msgid "PPU (Video) - No VRAM Blocking"
 msgstr ""
 
 msgctxt "#30008"
-msgid "SuperFX Coprocessor Overclocking"
+msgid "DSP (Audio) - Fast Mode"
 msgstr ""
 
 msgctxt "#30009"
-msgid "PPU Fast mode"
+msgid "DSP (Audio) - Cubic Interpolation"
 msgstr ""
 
 msgctxt "#30010"
-msgid "PPU Deinterlace"
+msgid "DSP (Audio) - Echo Shadow RAM"
 msgstr ""
 
 msgctxt "#30011"
-msgid "PPU No sprite limit"
+msgid "HD Mode 7 - Scale"
 msgstr ""
 
 msgctxt "#30012"
-msgid "PPU No VRAM blocking"
+msgid "HD Mode 7 - Perspective Correction"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Show Overscan"
+msgid "HD Mode 7 - Supersampling"
 msgstr ""
 
 msgctxt "#30014"
-msgid "HD Mode 7 Scale"
+msgid "HD Mode 7 - HD->SD Mosaic"
 msgstr ""
 
 msgctxt "#30015"
-msgid "HD Mode 7 Perspective correction"
+msgid "Internal Run-Ahead"
 msgstr ""
 
 msgctxt "#30016"
-msgid "HD Mode 7 Supersampling"
+msgid "Coprocessors - Fast Mode"
 msgstr ""
 
 msgctxt "#30017"
-msgid "HD Mode 7 HD->SD Mosaic"
+msgid "Coprocessors - Prefer HLE"
 msgstr ""
 
 msgctxt "#30018"
-msgid "DSP Fast mode"
+msgid "Hotfixes"
 msgstr ""
 
 msgctxt "#30019"
-msgid "DSP Cubic interpolation"
+msgid "Entropy (randomization)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "DSP Echo shadow RAM"
+msgid "CPU Fast Math"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Coprocessor Delayed Sync"
+msgid "Overclocking - CPU"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Coprocessor Prefer HLE"
+msgid "Overclocking - SA-1 Coprocessor"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Preferred Super GameBoy BIOS (restart)"
+msgid "Overclocking - SuperFX Coprocessor"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Amount of frames for run-ahead"
+msgid "Preferred Super Game Boy BIOS (Restart Required)"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Enable Touchscreen Lightgun"
+msgid "Hide SGB Border"
 msgstr ""
 
 msgctxt "#30026"
+msgid "Touchscreen Light Gun"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
 msgstr ""
