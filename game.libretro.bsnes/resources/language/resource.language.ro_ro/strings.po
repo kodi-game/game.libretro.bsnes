@@ -17,11 +17,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - SNES / SFC (bsnes 2014 Balanced)"
+msgid "Nintendo - SNES / SFC (bsnes)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "A libretro fork of bSNES. As close to upstream as possible.[CR][CR]The [I]Balanced[/I] profile is a good compromise between accuracy and performance."
+msgid "bsnes is a multi-platform Super Nintendo (Super Famicom) emulator from Near / Byuu that focuses on performance, features, and ease of use."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
