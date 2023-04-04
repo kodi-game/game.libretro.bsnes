@@ -30,5 +30,6 @@
 		<description lang="es_ES">bsnes es un emulador multiplataforma de Super Nintendo (Super Famicom) de Near / Byuu que se centra en el rendimiento, funcionalidades y facilidad de uso.</description>
 		<disclaimer lang="en_GB">In loving memory of Near / Byuu</disclaimer>
 		<disclaimer lang="es_ES">En cariñoso recuerdo de Near / Byuu</disclaimer>
+		<disclaimer lang="it_IT">In amorevole ricordo di Near / Byuu</disclaimer>
 	</extension>
 </addon>
