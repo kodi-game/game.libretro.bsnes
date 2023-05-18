@@ -27,9 +27,11 @@
 		<summary lang="da_DK">Nintendo - SNES / SFC (bsnes)</summary>
 		<summary lang="en_GB">Nintendo - SNES / SFC (bsnes)</summary>
 		<summary lang="es_ES">Nintendo - SNES / SFC (bsnes)</summary>
+		<summary lang="zh_CN">任天堂 - SNES / SFC（bsnes）</summary>
 		<description lang="da_DK">bsnes er en multiplatform Super Nintendo (Super Famicom) emulator fra Near / Byuu, der fokuserer på ydeevne, funktioner og brugervenlighed.</description>
 		<description lang="en_GB">bsnes is a multi-platform Super Nintendo (Super Famicom) emulator from Near / Byuu that focuses on performance, features, and ease of use.</description>
 		<description lang="es_ES">bsnes es un emulador multiplataforma de Super Nintendo (Super Famicom) de Near / Byuu que se centra en el rendimiento, funcionalidades y facilidad de uso.</description>
+		<description lang="zh_CN">bsnes 是一款来自 Near/Byuu 的多平台超级任天堂（Super Famicom）模拟器，专注于性能、功能和易用性。</description>
 		<disclaimer lang="da_DK">I kærligt minde om Near / Byuu</disclaimer>
 		<disclaimer lang="de_DE">In liebevoller Erinnerung an Near / Byuu</disclaimer>
 		<disclaimer lang="en_GB">In loving memory of Near / Byuu</disclaimer>
