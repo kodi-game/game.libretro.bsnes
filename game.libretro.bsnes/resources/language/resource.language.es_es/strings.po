@@ -140,3 +140,7 @@ msgstr "Pistola de luz en Pantalla táctil"
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
 msgstr "Super Scope Botones del Gatillo Inverso"
+
+msgctxt "#30028"
+msgid "Filter"
+msgstr ""

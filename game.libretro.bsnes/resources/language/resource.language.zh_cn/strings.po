@@ -140,3 +140,7 @@ msgstr "触摸屏光线枪"
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
 msgstr "Super Scope 反向触发按钮"
+
+msgctxt "#30028"
+msgid "Filter"
+msgstr ""

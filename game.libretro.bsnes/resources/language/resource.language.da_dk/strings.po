@@ -140,3 +140,7 @@ msgstr ""
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
 msgstr "Super Scope omvendte trigger-knapper"
+
+msgctxt "#30028"
+msgid "Filter"
+msgstr ""
