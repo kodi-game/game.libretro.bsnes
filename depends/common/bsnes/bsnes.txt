@@ -1,1 +1,1 @@
-bsnes https://github.com/libretro/bsnes-libretro/archive/609fffeb3ebaad1d9b5365ee648e7dd9c3a4eb31.tar.gz
+bsnes https://github.com/libretro/bsnes-libretro/archive/c4b27b3ae44a712dbe90e159bdba43df0c9f57de.tar.gz

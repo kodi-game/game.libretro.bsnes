@@ -4,6 +4,7 @@
 		<setting label="30001" type="select" id="bsnes_aspect_ratio" values="Auto|8:7|4:3|NTSC|PAL" default="Auto"/>
 		<setting label="30002" type="select" id="bsnes_ppu_show_overscan" values="OFF|ON" default="OFF"/>
 		<setting label="30003" type="select" id="bsnes_blur_emulation" values="OFF|ON" default="OFF"/>
+		<setting label="30028" type="select" id="bsnes_video_filter" values="None|NTSC (RF)|NTSC (Composite)|NTSC (S-Video)|NTSC (RGB)" default="None"/>
 		<setting label="30004" type="select" id="bsnes_ppu_fast" values="ON|OFF" default="ON"/>
 		<setting label="30005" type="select" id="bsnes_ppu_deinterlace" values="ON|OFF" default="ON"/>
 		<setting label="30006" type="select" id="bsnes_ppu_no_sprite_limit" values="OFF|ON" default="OFF"/>
