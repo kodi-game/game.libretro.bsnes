@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.bsnes"
 		name="Nintendo - SNES / SFC (bsnes)"
-		version="115.0.0.10"
+		version="115.0.0.11"
 		provider-name="Near">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
