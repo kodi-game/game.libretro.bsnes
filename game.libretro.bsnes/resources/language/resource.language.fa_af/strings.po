@@ -143,3 +143,15 @@ msgstr ""
 msgctxt "#30028"
 msgid "Filter"
 msgstr ""
+
+msgctxt "#30029"
+msgid "Color Adjustment - Luminance"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Color Adjustment - Saturation"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Color Adjustment - Gamma"
+msgstr ""
