@@ -29,17 +29,9 @@ msgctxt "Addon Disclaimer"
 msgid "In loving memory of Near / Byuu"
 msgstr "En cariñoso recuerdo de Near / Byuu"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
 msgstr "Relación de Aspecto Preferida"
-
-msgctxt "#30002"
-msgid "Crop Overscan"
-msgstr "Recortar Overscan"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
@@ -156,3 +148,15 @@ msgstr "Ajuste de Color - Saturación"
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
 msgstr "Ajuste de Color - Gama"
+
+msgctxt "#30032"
+msgid "Crop Vertical Overscan"
+msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
+
+#~ msgctxt "#30002"
+#~ msgid "Crop Overscan"
+#~ msgstr "Recortar Overscan"
