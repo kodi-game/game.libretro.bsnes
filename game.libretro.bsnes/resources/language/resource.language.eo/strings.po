@@ -773,6 +773,22 @@ msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
 msgstr ""
 
+msgctxt "#30188"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "#30189"
+msgid "PAL"
+msgstr ""
+
+msgctxt "#30190"
+msgid "Low"
+msgstr ""
+
+msgctxt "#30191"
+msgid "High"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Agordoj"
