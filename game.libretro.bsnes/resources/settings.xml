@@ -8,11 +8,11 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option label="30036">1:1</option>
 							<option label="30037">4:3</option>
-							<option>NTSC</option>
-							<option>PAL</option>
+							<option label="30188">NTSC</option>
+							<option label="30189">PAL</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -316,9 +316,9 @@
 					<default>Low</default>
 					<constraints>
 						<options>
-							<option>Low</option>
-							<option>High</option>
-							<option>None</option>
+							<option label="30190">Low</option>
+							<option label="30191">High</option>
+							<option label="231">None</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
