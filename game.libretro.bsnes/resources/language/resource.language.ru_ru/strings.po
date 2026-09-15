@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.bsnes\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2021-08-26 22:01i\n"
-"PO-Revision-Date: 2026-09-14 20:35+0000\n"
+"PO-Revision-Date: 2026-09-15 19:36+0000\n"
 "Last-Translator: Andrei Stepanov <adem4ik@gmail.com>\n"
 "Language-Team: Russian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-bsnes/ru_ru/>\n"
 "Language: ru_ru\n"
@@ -471,7 +471,7 @@ msgstr "Выберите уровень рандомизации памяти и
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr "Выдавать результаты вычислений немедленно. Умножение и деление CPU на реальной SNES занимают время. Старые эмуляторы не имитировали эти задержки, поэтому некоторые старые хаки ROM не ждут завершения математических операций и нуждаются в этом хаке."
+msgstr "Выдавать результаты вычислений немедленно. Умножение и деление ЦП на реальной SNES занимают время. Старые эмуляторы не имитировали эти задержки, поэтому некоторые старые хаки ROM не ждут завершения математических операций и нуждаются в этом хаке."
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
@@ -483,7 +483,7 @@ msgstr "Изменение скорости эмулируемого обору�
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr "Разгонять или снижать частоту CPU. Установка значения выше 100 % может сократить время загрузки и устранить замедления. Используйте с осторожностью, так как это может также привести к аварийному завершению некоторых игр или другим проблемам."
+msgstr "Разгонять или снижать частоту ЦП. Установка значения выше 100 % может сократить время загрузки и устранить замедления. Используйте с осторожностью, так как это может также привести к аварийному завершению некоторых игр или другим проблемам."
 
 msgctxt "#30116"
 msgid "210%"
