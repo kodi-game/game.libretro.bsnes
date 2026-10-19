@@ -31,143 +31,143 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Relació d'aspecte preferida"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
-msgstr ""
+msgstr "Emular el difuminat"
 
 msgctxt "#30004"
 msgid "PPU (Video) - Fast Mode"
-msgstr ""
+msgstr "PPU (Vídeo) - Mode ràpid"
 
 msgctxt "#30005"
 msgid "PPU (Video) - Deinterlace"
-msgstr ""
+msgstr "PPU (Vídeo) - Desentrellaçament"
 
 msgctxt "#30006"
 msgid "PPU (Video) - No Sprite Limit"
-msgstr ""
+msgstr "PPU (Vídeo) - Sense límit de fotogrames"
 
 msgctxt "#30007"
 msgid "PPU (Video) - No VRAM Blocking"
-msgstr ""
+msgstr "PPU (Vídeo) - Eliminar bloqueig de VRAM"
 
 msgctxt "#30008"
 msgid "DSP (Audio) - Fast Mode"
-msgstr ""
+msgstr "DSP (Àudio) - Mode ràpid"
 
 msgctxt "#30009"
 msgid "DSP (Audio) - Cubic Interpolation"
-msgstr ""
+msgstr "DSP (Àudio) - Interpolació cúbica"
 
 msgctxt "#30010"
 msgid "DSP (Audio) - Echo Shadow RAM"
-msgstr ""
+msgstr "DSP (Àudio) - Duplicació de RAM per ecos"
 
 msgctxt "#30011"
 msgid "HD Mode 7 - Scale"
-msgstr ""
+msgstr "Mode 7 HD - Escala"
 
 msgctxt "#30012"
 msgid "HD Mode 7 - Perspective Correction"
-msgstr ""
+msgstr "Mode HD 7 - Correcció de la perspectiva"
 
 msgctxt "#30013"
 msgid "HD Mode 7 - Supersampling"
-msgstr ""
+msgstr "Mode HD 7 - Sobremostreig"
 
 msgctxt "#30014"
 msgid "HD Mode 7 - HD->SD Mosaic"
-msgstr ""
+msgstr "Mode HD 7 - HD -> Mosaic SD"
 
 msgctxt "#30015"
 msgid "Internal Run-Ahead"
-msgstr ""
+msgstr "Reducció predictiva de la latència interna"
 
 msgctxt "#30016"
 msgid "Coprocessors - Fast Mode"
-msgstr ""
+msgstr "Coprocessadors - Mode ràpid"
 
 msgctxt "#30017"
 msgid "Coprocessors - Prefer HLE"
-msgstr ""
+msgstr "Coprocessadors - HLE preferit"
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr ""
+msgstr "Correccions"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
-msgstr ""
+msgstr "Entropía (aleatori)"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
-msgstr ""
+msgstr "Acceleració càlculs matemàtics a la CPU"
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
-msgstr ""
+msgstr "Augmentar velocitat de la CPU"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
-msgstr ""
+msgstr "Augmentar velocitat - Coprocessador SA-1"
 
 msgctxt "#30023"
 msgid "Overclocking - SuperFX Coprocessor"
-msgstr ""
+msgstr "Augmentar velocitat - Coprocessador SuperFX"
 
 msgctxt "#30024"
 msgid "Preferred Super Game Boy BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS de la Super Game Boy preferida (Es requereix reinici)"
 
 msgctxt "#30025"
 msgid "Hide SGB Border"
-msgstr ""
+msgstr "Amaga vora SGB"
 
 msgctxt "#30026"
 msgid "Touchscreen Light Gun"
-msgstr ""
+msgstr "Simular la pistola de llum amb la pantalla tàctil"
 
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr ""
+msgstr "Inverteix gatells del Super Scope"
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Filtre"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr ""
+msgstr "Ajust de color - Brillantor"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr ""
+msgstr "Ajust de color - Saturació"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr ""
+msgstr "Ajust de color - Gamma"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr ""
+msgstr "Retallar sobreescombrat vertical"
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Canvia les opcions de sortida de vídeo."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Escull la relació d'aspecte preferida. Aquesta relació d'aspecte només s'aplicarà si la relació d'aspecte a RetroArch està fixada a 'Core provided' en la configuració de vídeo."
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
-msgstr ""
+msgstr "1:1 PAR (Píxel perfecte)"
 
 msgctxt "#30037"
 msgid "4:3 DAR"
@@ -175,27 +175,27 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Remove N lines from the top and bottom of the screen to simulate the bezel of a television of the SNES era."
-msgstr ""
+msgstr "Elimina una quantitat concreta de línies de la part superior i inferior de la pantalla per emular el marc d'una televisió de l'època de la SNES."
 
 msgctxt "#30039"
 msgid "0 Lines"
-msgstr ""
+msgstr "0 Línies"
 
 msgctxt "#30040"
 msgid "8 Lines"
-msgstr ""
+msgstr "8 Línies"
 
 msgctxt "#30041"
 msgid "12 Lines"
-msgstr ""
+msgstr "12 Línies"
 
 msgctxt "#30042"
 msgid "16 Lines"
-msgstr ""
+msgstr "16 Línies"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
-msgstr ""
+msgstr "Simula la limitació de resolució horitzontal d'un televisor SD difuminant els píxels que estiguin adjacents horitzontalment. Certs jocs necessiten aquest efecte per simular la transparencia."
 
 msgctxt "#30044"
 msgid "disabled"
@@ -207,11 +207,11 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose between no filtering and blargg's NTSC filter with options for RF, Composite, S-Video, or RGB"
-msgstr ""
+msgstr "Selecciona entre cap filtre i el filtre NTSC de blargg amb opcions per RF, Composició, S-Video o RGB"
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Cap"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "NTSC (Composite)"
-msgstr ""
+msgstr "NTSC (Composició)"
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr ""
+msgstr "Ajustar brillantor"
 
 msgctxt "#30053"
 msgid "0%"
@@ -275,11 +275,11 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (Per defecte)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr ""
+msgstr "Ajustar saturació"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr ""
+msgstr "Ajustar el factor Gamma"
 
 msgctxt "#30076"
 msgid "100%"
@@ -331,55 +331,55 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150% (Per defecte)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
-msgstr ""
+msgstr "Activa l'emulació ràpida de la PPU a costa d'una reducció de la precisió. Es recomana deixar-ho activat. NOTA: Això ha d'estar activat perquè funcionin les opcions de desentrellaçament, desactivar límit de sprites i Mode 7 en alta resolució."
 
 msgctxt "#30079"
 msgid "Deinterlace all games by rendering internally at 480p. Performance penalty is almost non-existent, so it is recommended to leave this on."
-msgstr ""
+msgstr "Desentrellaça tots els jocs renderitzant-los internament a 480p. No hi ha quasi cap afectació al rendiment, així que és recomanable deixar aquesta opció activada."
 
 msgctxt "#30080"
 msgid "Remove any limit to the number of sprites that can be drawn simultaneously on screen. May cause issues with some games."
-msgstr ""
+msgstr "Elimina tots els límits en el nombre de sprites que es poden mostrar en pantalla de manera simultània. Pot provocar problemes en alguns jocs."
 
 msgctxt "#30081"
 msgid "Emulate a bug in older releases of ZSNES and Snes9x, where VRAM blocking was not emulated. A few older ROM hacks relied on this behavior and will render graphics incorrectly if this is not enabled. This option is extremely inaccurate and hurts PPU speed, so it is recommended to leave it disabled unless you need to play a game that is otherwise incompatible with this core."
-msgstr ""
+msgstr "Simula un error en versions anteriors de ZSNES i Snes9x en què no s'emulava el bloqueig de memòria VRAM. Alguns romhacks antics necessiten aquest error per funcionar i es mostraran incorrectament a nivell gràfic si no s'activa aquesta opció. És molt inexacta i afecta a la velocitat de la PPU, així que et recomanem mantenir-la desactivada a no ser que necessitis jugar a un joc que sigui incompatible amb aquest nucli sense aquesta opció."
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Àudio"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Canvia les opcions de sortida de l'àudio."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "Habilita l'emulació ràpida del DSP a costa d'una petita reducció de la precisió. Es recomana deixar aquesta opció activada."
 
 msgctxt "#30085"
 msgid "Apply cubic interpolation to the sound, preserving more of the high range."
-msgstr ""
+msgstr "Aplica interpolació cúbica al so, conservant més rang de freqüències agudes."
 
 msgctxt "#30086"
 msgid "Emulate a bug in ZSNES where echo RAM was treated as separate from APU RAM. Many older ROM hacks for Super Mario World relied on this behavior and will crash without this. This option is extremely inaccurate and should not be enabled unless required."
-msgstr ""
+msgstr "Simula un error a ZSNES en el qual la memòria RAM per a ecos era tractada com una part independent de la RAM de la APU. Alguns romhacks antics de Super Mario Wolrd depenen d'aquest error per a funcionar. Aquesta opció és molt inestable i no s'ha d'activar a no ser que sigui imprescindible."
 
 msgctxt "#30087"
 msgid "HD Mode 7"
-msgstr ""
+msgstr "Mode HD 7"
 
 msgctxt "#30088"
 msgid "Change settings regarding Mode 7 graphics emulation."
-msgstr ""
+msgstr "Canvia la configuració relativa a l'emulació dels gràfics en Mode 7."
 
 msgctxt "#30089"
 msgid "Increase the horizontal and vertical resolution of the Mode 7 graphics used in certain games."
-msgstr ""
+msgstr "Augmenta la resolució horitzontal i vertical dels gràfics en el Mode 7 per certs jocs."
 
 msgctxt "#30090"
 msgid "240p (1x)"
@@ -415,75 +415,75 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
-msgstr ""
+msgstr "Corregeix la perspectiva dels gràfics en el Mode 7 que s'utilitza en certs jocs, corregint les limitacions dels càlculs amb nombres enters que fa la SNES."
 
 msgctxt "#30099"
 msgid "Supersample the Mode 7 graphics used in certain games. Combined with higher Mode 7 scale factors, it produces an effect similar to anti-aliasing."
-msgstr ""
+msgstr "Sobremostreig els gràfics en Mode 7 que fan servir certs jocs. Combinat amb un factor d'escala alt del Mode 7, produeix un efecte similar al suavitzat de vores."
 
 msgctxt "#30100"
 msgid "Show the mosaic effect of Mode 7 graphics even when upscaling them."
-msgstr ""
+msgstr "Mostra l'efecte de mosaic dels gràfics en el mode 7 si augmenta l'escala."
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr ""
+msgstr "Correccions de l'emulació i optimitzacions"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
-msgstr ""
+msgstr "Aplica correccions de l'emulació, optimitzacions i revisions."
 
 msgctxt "#30103"
 msgid "Simulate the system ahead of time and roll back to reduce input latency. Has very high system requirements."
-msgstr ""
+msgstr "Simula el sistema per avançat i després executa'l per reduir la latència d'entrada. Aquesta opció té requisits de sistema molt alts."
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1 fotograma"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2 fotogrames"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3 fotogrames"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4 fotogrames"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "Habilitat l'emulació ràpida dels coprocessadors a costa d'una petita reducció de la precisió. Es recomana deixar aquesta opció activada."
 
 msgctxt "#30109"
 msgid "When this option is enabled, less accurate HLE emulation will always be used when available. If disabled, HLE will only be used when LLE firmware is missing."
-msgstr ""
+msgstr "Quan aquesta opció està activada, es farà servir una emulació d'alt nivell amb menys precisió si està disponible. En cas contrari, només es farà servir l'emulació d'alt nivell quan no es trobi dins del firmware."
 
 msgctxt "#30110"
 msgid "Even commercially licensed and officially released software is sometimes shipped with bugs. This option will correct certain issues that occurred even on real hardware."
-msgstr ""
+msgstr "A vegades, els programes comercials també poden contenir errors. Aquesta opció corregeix certs problemes que també passen en el maquinari real."
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr ""
+msgstr "Selecciona el nivell d'aleatoritat de la memòria i els registres. Si selecciones 'cap', tota la memòria els registres s'iniciaran al principi amb uns valors constants. Si selecciones 'baixa', ofereix la representació més fidel al sistema real. Si selecciones 'alta' produeix uns valors que son el més aleatoris possibles."
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr ""
+msgstr "Produeix els resultats de la computació de forma inmediata. Les multiplicacions i quocients amb la CPU tarden un temps a fer-se a una SNES real. Els emuladors més antics simulaven aquests retards, així que alguns romhacks antics necessiten aquesta correcció per funcionar correctament."
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
-msgstr ""
+msgstr "Augmentar/Disminuir velocitat de la CPU"
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr ""
+msgstr "Canvia la velocitat d'emulació del maquinari."
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Augmentar o disminuir la velocitat de la CPU. Un valor més alt que el 100% pot reduir els temps de càrrega i entorpiments. Fes servir-ho amb precaució perquè també pot provocar bloquejos o altres problemes en alguns jocs."
 
 msgctxt "#30116"
 msgid "210%"
@@ -567,11 +567,11 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Overclock or downclock the Super Accelerator 1 (SA-1) chip. Setting this value above 100% may improve performance in games that support the SA-1 chip. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Augmentar o disminuir la velocitat del Super Accelerator (SA-1) Un valor més alt que el 100% pot millorar el rendiment en jocs que tinguin suport de Super Accelerator (SA-1). Fes servir-ho amb precaució perquè també pot provocar bloquejos o altres problemes en alguns jocs."
 
 msgctxt "#30137"
 msgid "Overclock or downclock the SuperFX coprocessor. Setting this value above 100% may improve performance in games that support the SuperFX. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Augmentar o disminuir la velocitat del coprocessador SuperFX. Un valor més alt que el 100% pot millorar el rendiment en jocs que tinguin suport de SuperFX. Fes servir-ho amb precaució perquè també pot provocar bloquejos o altres problemes en alguns jocs."
 
 msgctxt "#30138"
 msgid "410%"
@@ -739,11 +739,11 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
-msgstr ""
+msgstr "Canvia la configuració relativa a l'emulació de Super Game Boy."
 
 msgctxt "#30180"
 msgid "Choose the preferred Super Game Boy BIOS to be used with compatible titles."
-msgstr ""
+msgstr "Selecciona la BIOS preferida de Super Game Boy que s'utilitzarà amb els jocs compatibles."
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
@@ -755,23 +755,23 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
-msgstr ""
+msgstr "Amaga la vora en jugar a jocs de Super Game Boy."
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "Pistola de llum"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."
-msgstr ""
+msgstr "Canvia (pantalla tàctil) la configuració de la pistola de llum."
 
 msgctxt "#30186"
 msgid "Enable Super Scope input for touchscreen devices."
-msgstr ""
+msgstr "Activa l'entrada de Super Scope per dispositius tàctils."
 
 msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
-msgstr ""
+msgstr "Inverteix els botons de gatell i ratolí del Super Scope a la pantalla tàctil."
 
 msgctxt "#30188"
 msgid "NTSC"

@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "الفلتر"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
@@ -155,11 +155,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "تغيير إعدادات إخراج الفيديو."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "لاشيء"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "نظام تشغيل الصوت"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "تغيير إعدادات إخراج الصوت."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -735,7 +735,7 @@ msgstr ""
 
 msgctxt "#30178"
 msgid "Super Game Boy"
-msgstr ""
+msgstr "سوبر غيم بوي"
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."

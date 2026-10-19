@@ -31,47 +31,47 @@ msgstr "S láskou na památku Near / Byuu"
 
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
-msgstr "Preferovaný poměr stran"
+msgstr "Preferovaný Poměr Stran"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
-msgstr "Emulace rozmazání"
+msgstr "Emulace Rozostření"
 
 msgctxt "#30004"
 msgid "PPU (Video) - Fast Mode"
-msgstr "PPU (video) - rychlý režim"
+msgstr "PPU (Video) - Rychlý Režim"
 
 msgctxt "#30005"
 msgid "PPU (Video) - Deinterlace"
-msgstr "PPU (video) - zrušení prokládání"
+msgstr "PPU (Video) - Odstranění Prokladu"
 
 msgctxt "#30006"
 msgid "PPU (Video) - No Sprite Limit"
-msgstr "PPU (video) - bez limitu spritů"
+msgstr "PPU (Video) - Žádný Limit Spritu"
 
 msgctxt "#30007"
 msgid "PPU (Video) - No VRAM Blocking"
-msgstr "PPU (video) - bez blokování VRAM"
+msgstr "PPU (Video) - Bez Blokování VRAM"
 
 msgctxt "#30008"
 msgid "DSP (Audio) - Fast Mode"
-msgstr "DSP (zvuk) - rychlý režim"
+msgstr "DSP (Zvuk) - Rychlý Režim"
 
 msgctxt "#30009"
 msgid "DSP (Audio) - Cubic Interpolation"
-msgstr "DSP (zvuk) - kubická interpolace"
+msgstr "DSP (Zvuk) - Kubická Interpolace"
 
 msgctxt "#30010"
 msgid "DSP (Audio) - Echo Shadow RAM"
-msgstr "DSP (zvuk) - oddělená echo RAM"
+msgstr "DSP (Zvuk) - Zdvojení p. RAM pro Ozvěny"
 
 msgctxt "#30011"
 msgid "HD Mode 7 - Scale"
-msgstr "HD Mode 7 - měřítko"
+msgstr "Režim HD 7 - Škálování"
 
 msgctxt "#30012"
 msgid "HD Mode 7 - Perspective Correction"
-msgstr "HD Mode 7 - korekce perspektivy"
+msgstr "Režim HD 7 - Perspektivní Korekce"
 
 msgctxt "#30013"
 msgid "HD Mode 7 - Supersampling"
@@ -79,31 +79,31 @@ msgstr "HD Mode 7 - supersampling"
 
 msgctxt "#30014"
 msgid "HD Mode 7 - HD->SD Mosaic"
-msgstr "HD Mode 7 - mozaika HD->SD"
+msgstr "HD Mód 7 - HD->SD Mozaika"
 
 msgctxt "#30015"
 msgid "Internal Run-Ahead"
-msgstr "Interní run-ahead"
+msgstr "Vnitřní Předběžné Spuštění"
 
 msgctxt "#30016"
 msgid "Coprocessors - Fast Mode"
-msgstr "Koprocesory - rychlý režim"
+msgstr "Koprocesory - Rychlý Režim"
 
 msgctxt "#30017"
 msgid "Coprocessors - Prefer HLE"
-msgstr "Koprocesory - preferovat HLE"
+msgstr "Koprocesory - Preferovat HLE"
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr "Hotfixy"
+msgstr "Horké Opravy"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
-msgstr "Entropie (randomizace)"
+msgstr "Entropie (náhodna volba)"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
-msgstr "Rychlé matematické operace CPU"
+msgstr "Rychlé Výpočty CPU"
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
@@ -111,27 +111,27 @@ msgstr "Přetaktování - CPU"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
-msgstr "Přetaktování - koprocesor SA-1"
+msgstr "Přetaktování - Koprocesoru SA-1"
 
 msgctxt "#30023"
 msgid "Overclocking - SuperFX Coprocessor"
-msgstr "Přetaktování - koprocesor SuperFX"
+msgstr "Přetaktování - Koprocesoru SuperFX"
 
 msgctxt "#30024"
 msgid "Preferred Super Game Boy BIOS (Restart Required)"
-msgstr "Preferovaný BIOS Super Game Boy (vyžaduje restart)"
+msgstr "Upřednostňovaný systém Super Game Boy BIOS (nutný restart)"
 
 msgctxt "#30025"
 msgid "Hide SGB Border"
-msgstr "Skrýt rámeček SGB"
+msgstr "Skrýt Hranici SGB"
 
 msgctxt "#30026"
 msgid "Touchscreen Light Gun"
-msgstr "Světelná pistole na dotykové obrazovce"
+msgstr "Světelná Pistole s Dotykovou Obrazovkou"
 
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr "Prohodit tlačítka spouště Super Scope"
+msgstr "Obrácení Tlačítek Střelby Super Scope"
 
 msgctxt "#30028"
 msgid "Filter"
@@ -139,19 +139,19 @@ msgstr "Filtr"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr "Úprava barev - jas"
+msgstr "Úprava barev - Jas"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr "Úprava barev - sytost"
+msgstr "Úprava barev - Sytost"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr "Úprava barev - gama"
+msgstr "Úprava barev - Gamma"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr "Oříznout vertikální overscan"
+msgstr "Oříznutí Vertikálního Přesahu"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,11 +159,11 @@ msgstr "Video"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr "Změnit nastavení výstupu videa."
+msgstr "Změnit nastavení video výstupu."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr "Zvolit preferovaný poměr stran obsahu. Použije se pouze tehdy, je-li poměr stran RetroArchu v nastavení videa nastaven na „Poskytnuto jádrem“."
+msgstr "Zvolte preferovaný poměr stran obsahu. To se použije pouze v případě, že je poměr stran aplikace RetroArch v nastavení videa nastaven na hodnotu 'Poskytnuté Jádro'."
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
@@ -175,7 +175,7 @@ msgstr "4:3 DAR"
 
 msgctxt "#30038"
 msgid "Remove N lines from the top and bottom of the screen to simulate the bezel of a television of the SNES era."
-msgstr "Odebrat N řádků z horní a dolní části obrazovky pro simulaci rámečku televizoru z éry SNES."
+msgstr "Odstraňte čáry N z horní a dolní části obrazovky, abyste simulovali rámeček televizoru z doby SNES."
 
 msgctxt "#30039"
 msgid "0 Lines"
@@ -195,7 +195,7 @@ msgstr "16 řádků"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
-msgstr "Simulovat omezené horizontální rozlišení televizorů SDTV rozmazáním sousedních pixelů ve vodorovném směru. Některé hry na tom závisejí při emulaci efektu průhlednosti."
+msgstr "Simuluje omezené horizontální rozlišení televizorů SDTV rozmazáním horizontálně sousedících pixelů. Některé hry na tom závisejí, aby napodobily efekt průhlednosti."
 
 msgctxt "#30044"
 msgid "disabled"
@@ -207,11 +207,11 @@ msgstr "Povoleno"
 
 msgctxt "#30046"
 msgid "Choose between no filtering and blargg's NTSC filter with options for RF, Composite, S-Video, or RGB"
-msgstr "Zvolit mezi žádným filtrováním a filtrem NTSC od blargg s možnostmi RF, Composite, S-Video nebo RGB"
+msgstr "Vyberte si mezi filtrem bez filtrování a filtrem NTSC společnosti Blargg s možnostmi pro RF, kompozitní, S-Video nebo RGB"
 
 msgctxt "#30047"
 msgid "None"
-msgstr "Žádné"
+msgstr "Žádná"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -219,7 +219,7 @@ msgstr "NTSC (RF)"
 
 msgctxt "#30049"
 msgid "NTSC (Composite)"
-msgstr "NTSC (Composite)"
+msgstr "NTSC (Kompozitní)"
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
@@ -231,7 +231,7 @@ msgstr "NTSC (RGB)"
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr "Upravit jas"
+msgstr "Nastavení jasu"
 
 msgctxt "#30053"
 msgid "0%"
@@ -275,11 +275,11 @@ msgstr "90 %"
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr "100 % (výchozí)"
+msgstr "100% (výchozí)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr "Upravit sytost"
+msgstr "Nastavení sytosti"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr "200 %"
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr "Upravit gamu"
+msgstr "Nastavení gamma"
 
 msgctxt "#30076"
 msgid "100%"
@@ -335,19 +335,19 @@ msgstr "150 % (výchozí)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
-msgstr "Povolit rychlejší emulaci PPU za cenu mírného snížení přesnosti. Doporučujeme ponechat zapnuté. POZNÁMKA: tato volba musí být povolena, aby fungovaly volby „Deinterlace“, „No Sprite Limit“ a „HD Mode 7“."
+msgstr "Umožňuje rychlejší emulaci PPU za cenu menšího snížení přesnosti. Doporučujeme ponechat tuto funkci zapnutou. POZNÁMKA: tato funkce musí být zapnutá, aby fungovaly možnosti \"Odstranění prokladu\", \"Žádný limit spritu\" a \"HD režim 7\"."
 
 msgctxt "#30079"
 msgid "Deinterlace all games by rendering internally at 480p. Performance penalty is almost non-existent, so it is recommended to leave this on."
-msgstr "Zrušit prokládání všech her interním vykreslováním v rozlišení 480p. Ztráta výkonu je téměř neznatelná, proto doporučujeme ponechat zapnuté."
+msgstr "Odstraňte prokládání všech her interním vykreslováním v rozlišení 480p. Snížení výkonu je téměř nulové, takže se doporučuje ponechat tuto funkci zapnutou."
 
 msgctxt "#30080"
 msgid "Remove any limit to the number of sprites that can be drawn simultaneously on screen. May cause issues with some games."
-msgstr "Odstranit veškerý limit počtu spritů, které lze současně vykreslit na obrazovce. Může způsobit problémy u některých her."
+msgstr "Odstranění omezení počtu spritů, které lze současně vykreslit na obrazovku. Může způsobit problémy v některých hrách."
 
 msgctxt "#30081"
 msgid "Emulate a bug in older releases of ZSNES and Snes9x, where VRAM blocking was not emulated. A few older ROM hacks relied on this behavior and will render graphics incorrectly if this is not enabled. This option is extremely inaccurate and hurts PPU speed, so it is recommended to leave it disabled unless you need to play a game that is otherwise incompatible with this core."
-msgstr "Emulovat chybu ve starších verzích ZSNES a Snes9x, kde nebylo emulováno blokování VRAM. Několik starších ROM hacků na tomto chování záviselo a bez zapnutí této volby bude vykreslovat grafiku nesprávně. Tato volba je velmi nepřesná a snižuje rychlost PPU, proto se doporučuje ponechat ji zakázanou, pokud nepotřebujete hrát hru, která je jinak s tímto jádrem nekompatibilní."
+msgstr "Emulace chyb ve starších verzích ZSNES a Snes9x, kdy nebylo emulováno blokování VRAM. Několik starších ROM hacků na toto chování spoléhalo a pokud není povoleno, vykresluje grafiku nesprávně. Tato volba je extrémně nepřesná a poškozuje rychlost PPU, takže ji doporučujeme nechat vypnutou, pokud nepotřebujete hrát hru, která je jinak s tímto jádrem nekompatibilní."
 
 msgctxt "#30082"
 msgid "Audio"
@@ -359,15 +359,15 @@ msgstr "Změnit nastavení výstupu zvuku."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr "Povolit rychlejší emulaci DSP za cenu mírného snížení přesnosti. Doporučujeme ponechat zapnuté."
+msgstr "Umožňuje rychlejší emulaci DSP za cenu menšího snížení přesnosti. Doporučujeme ponechat tuto funkci zapnutou."
 
 msgctxt "#30085"
 msgid "Apply cubic interpolation to the sound, preserving more of the high range."
-msgstr "Použít kubickou interpolaci zvuku, která zachová více vysokých frekvencí."
+msgstr "Použijte na zvuk kubickou interpolaci, čímž zachováte větší část vysokého rozsahu."
 
 msgctxt "#30086"
 msgid "Emulate a bug in ZSNES where echo RAM was treated as separate from APU RAM. Many older ROM hacks for Super Mario World relied on this behavior and will crash without this. This option is extremely inaccurate and should not be enabled unless required."
-msgstr "Emulovat chybu v ZSNES, při které byla echo RAM považována za oddělenou od APU RAM. Mnoho starších ROM hacků hry Super Mario World na tom záviselo a bez této volby dojde k pádu. Tato volba je velmi nepřesná a neměla by se povolit, pokud to není nutné."
+msgstr "Emulace chyby v ZSNES, kdy byla echo RAM považována za oddělenou od APU RAM. Mnoho starších ROM hacků pro Super Mario World se na toto chování spoléhalo a bez něj budou padat. Tato volba je extrémně nepřesná a neměla by být povolena, pokud to není nutné."
 
 msgctxt "#30087"
 msgid "HD Mode 7"
@@ -375,11 +375,11 @@ msgstr "HD Mode 7"
 
 msgctxt "#30088"
 msgid "Change settings regarding Mode 7 graphics emulation."
-msgstr "Změnit nastavení emulace grafiky Mode 7."
+msgstr "Změna nastavení emulace grafiky v režimu 7."
 
 msgctxt "#30089"
 msgid "Increase the horizontal and vertical resolution of the Mode 7 graphics used in certain games."
-msgstr "Zvýšit horizontální a vertikální rozlišení grafiky Mode 7 použité v některých hrách."
+msgstr "Zvyšte horizontální a vertikální rozlišení grafiky režimu 7 používané v některých hrách."
 
 msgctxt "#30090"
 msgid "240p (1x)"
@@ -415,27 +415,27 @@ msgstr "1920p (8x)"
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
-msgstr "Opravit perspektivu grafiky Mode 7 použité v některých hrách obejitím některých omezení celočíselné matematiky SNES."
+msgstr "Oprava perspektivy grafiky v režimu Mode 7 používané v některých hrách obejitím některých omezení celočíselné matematiky používané systémem SNES."
 
 msgctxt "#30099"
 msgid "Supersample the Mode 7 graphics used in certain games. Combined with higher Mode 7 scale factors, it produces an effect similar to anti-aliasing."
-msgstr "Použít supersampling grafiky Mode 7 použité v některých hrách. V kombinaci s vyššími faktory měřítka Mode 7 vytváří efekt podobný vyhlazování."
+msgstr "Supersamplování grafiky režimu 7 používané v některých hrách. V kombinaci s vyššími faktory měřítka režimu 7 vytváří efekt podobný anti-aliasingu."
 
 msgctxt "#30100"
 msgid "Show the mosaic effect of Mode 7 graphics even when upscaling them."
-msgstr "Zobrazit mozaikový efekt grafiky Mode 7 i při jejím zvětšování."
+msgstr "Zobrazení mozaikového efektu grafiky v režimu 7 i při zvýšení jejího měřítka."
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr "Úpravy a vylepšení emulace"
+msgstr "Hacky a vylepšení emulace"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
-msgstr "Použít úpravy emulace, vylepšení a hotfixy."
+msgstr "Použijte emulační hacky, vylepšení a opravy."
 
 msgctxt "#30103"
 msgid "Simulate the system ahead of time and roll back to reduce input latency. Has very high system requirements."
-msgstr "Simulovat systém dopředu a vracet jeho stav pro snížení vstupní latence. Má velmi vysoké systémové nároky."
+msgstr "Simulujte systém předem a vraťte se zpět, abyste snížili vstupní zpoždění. Má velmi vysoké systémové požadavky."
 
 msgctxt "#30104"
 msgid "1 frame"
@@ -455,35 +455,35 @@ msgstr "4 snímky"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr "Povolit rychlejší emulaci koprocesorů za cenu mírného snížení přesnosti. Doporučujeme ponechat zapnuté."
+msgstr "Umožňuje rychlejší emulaci koprocesorů za cenu menšího snížení přesnosti. Doporučujeme ponechat tuto funkci zapnutou."
 
 msgctxt "#30109"
 msgid "When this option is enabled, less accurate HLE emulation will always be used when available. If disabled, HLE will only be used when LLE firmware is missing."
-msgstr "Když je tato volba povolena, vždy se použije méně přesná emulace HLE, pokud je k dispozici. Když je zakázaná, HLE se použije pouze při chybějícím firmwaru LLE."
+msgstr "Pokud je tato možnost povolena, bude vždy použita méně přesná emulace HLE, pokud je k dispozici. Pokud je tato možnost zakázána, bude HLE použita pouze v případě, že chybí firmware LLE."
 
 msgctxt "#30110"
 msgid "Even commercially licensed and officially released software is sometimes shipped with bugs. This option will correct certain issues that occurred even on real hardware."
-msgstr "I komerčně licencovaný a oficiálně vydaný software je někdy dodáván s chybami. Tato volba opraví některé problémy, které se vyskytovaly i na skutečném hardwaru."
+msgstr "Dokonce i komerčně licencovaný a oficiálně vydaný software je někdy dodáván s chybami. Tato možnost opraví některé problémy, které se vyskytly i na skutečném hardwaru."
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr "Zvolit úroveň náhodnosti paměti a registrů. Při nastavení na „Žádné“ se veškerá paměť a registry při spuštění inicializují na konstantní hodnoty. Nízká náhodnost poskytuje nejpřesnější reprezentaci skutečného systému. Vysoká náhodnost náhodně mění co nejvíce hodnot."
+msgstr "Zvolte úroveň náhodné volby paměti a registrů. Pokud je nastavena hodnota žádná, jsou všechny paměti a registry při spuštění inicializovány na konstantní hodnoty. Nízká úroveň náhodné v. poskytuje nejpřesnější reprezentaci skutečného systému. Vysoká náhodná v. co nejvíce."
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr "Poskytovat výsledky výpočtů okamžitě. Násobení a dělení CPU trvá na skutečném SNES určitou dobu. Starší emulátory tato zpoždění nesimulovaly, a proto některé starší ROM hacky nečekají na dokončení matematických operací a tuto úpravu potřebují."
+msgstr "Okamžitě poskytněte výsledky výpočtů. Násobení a dělení procesorem trvá na skutečném SNESu dlouho. Starší emulátory tyto prodlevy nesimulovaly, a proto některé starší ROM hacky nečekají na dokončení matematických operací a potřebují tento hack."
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
-msgstr "Přetaktování/podtaktování"
+msgstr "Přetaktování/Snížení Taktu"
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr "Změnit rychlost emulovaného hardwaru."
+msgstr "Změna rychlosti emulovaného hardwaru."
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr "Přetaktovat nebo podtaktovat CPU. Nastavení této hodnoty nad 100 % může zkrátit dobu načítání a odstranit zpomalování. Používejte opatrně, protože také může způsobit pád nebo jiné problémy některých her."
+msgstr "Přetaktování nebo snížení taktu procesoru. Nastavení této hodnoty nad 100 % může zkrátit dobu načítání a odstranit zpomalení. Používejte s opatrností, protože může také způsobit pád některých her nebo jiné problémy."
 
 msgctxt "#30116"
 msgid "210%"
@@ -567,11 +567,11 @@ msgstr "400 %"
 
 msgctxt "#30136"
 msgid "Overclock or downclock the Super Accelerator 1 (SA-1) chip. Setting this value above 100% may improve performance in games that support the SA-1 chip. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr "Přetaktovat nebo podtaktovat čip Super Accelerator 1 (SA-1). Nastavení této hodnoty nad 100 % může zlepšit výkon ve hrách, které čip SA-1 podporují. Používejte opatrně, protože také může způsobit pád nebo jiné problémy některých her."
+msgstr "Přetaktování nebo snížení taktu čipu Super Accelerator 1 (SA-1). Nastavení této hodnoty nad 100 % může zlepšit výkon ve hrách, které podporují čip SA-1. Používejte ji s opatrností, protože může také způsobit pád některých her nebo jiné problémy."
 
 msgctxt "#30137"
 msgid "Overclock or downclock the SuperFX coprocessor. Setting this value above 100% may improve performance in games that support the SuperFX. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr "Přetaktovat nebo podtaktovat koprocesor SuperFX. Nastavení této hodnoty nad 100 % může zlepšit výkon ve hrách, které SuperFX podporují. Používejte opatrně, protože také může způsobit pád nebo jiné problémy některých her."
+msgstr "Přetaktování nebo snížení taktu koprocesoru SuperFX. Nastavení této hodnoty nad 100 % může zlepšit výkon ve hrách, které podporují SuperFX. Používejte jej s opatrností, protože může také způsobit pád některých her nebo jiné problémy."
 
 msgctxt "#30138"
 msgid "410%"
@@ -739,11 +739,11 @@ msgstr "Super Game Boy"
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
-msgstr "Změnit nastavení emulace Super Game Boy."
+msgstr "Změna nastavení emulace Super Game Boy."
 
 msgctxt "#30180"
 msgid "Choose the preferred Super Game Boy BIOS to be used with compatible titles."
-msgstr "Zvolit preferovaný BIOS Super Game Boy pro kompatibilní tituly."
+msgstr "Vyberte preferovaný systém Super Game Boy BIOS pro použití s kompatibilními tituly."
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
@@ -755,7 +755,7 @@ msgstr "Super Game Boy 2 (SGB2.sfc)"
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
-msgstr "Skrýt rámeček při hraní her Super Game Boy."
+msgstr "Skrýt okraj při hraní her pro Super Game Boy."
 
 msgctxt "#30184"
 msgid "Light Gun"
@@ -763,7 +763,7 @@ msgstr "Světelná pistole"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."
-msgstr "Změnit nastavení (dotykové) světelné pistole."
+msgstr "Změna nastavení (dotykové obrazovky) světelné pistole."
 
 msgctxt "#30186"
 msgid "Enable Super Scope input for touchscreen devices."
@@ -771,7 +771,7 @@ msgstr "Povolit vstup Super Scope pro dotyková zařízení."
 
 msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
-msgstr "Prohodit tlačítka spouště a kurzoru Super Scope se světelnou pistolí na dotykové obrazovce."
+msgstr "Obraťte tlačítka spouště a kurzoru Super Scope pomocí světelné pistole s dotykovou obrazovkou."
 
 msgctxt "#30188"
 msgid "NTSC"

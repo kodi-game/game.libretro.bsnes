@@ -31,23 +31,23 @@ msgstr "怀念 Near / Byuu"
 
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
-msgstr "首选纵横比"
+msgstr "首选宽高比"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
-msgstr "模糊仿真"
+msgstr "模糊模拟"
 
 msgctxt "#30004"
 msgid "PPU (Video) - Fast Mode"
-msgstr "PPU（视频）- 快速模式"
+msgstr "PPU（视频） - 快速模式"
 
 msgctxt "#30005"
 msgid "PPU (Video) - Deinterlace"
-msgstr "PPU（视频）- 反交错"
+msgstr "PPU（视频）- 去隔行"
 
 msgctxt "#30006"
 msgid "PPU (Video) - No Sprite Limit"
-msgstr "PPU（视频）- 无 Sprite 限制"
+msgstr "PPU（视频）- 无精灵限制"
 
 msgctxt "#30007"
 msgid "PPU (Video) - No VRAM Blocking"
@@ -63,27 +63,27 @@ msgstr "DSP（音频）- 三次插值"
 
 msgctxt "#30010"
 msgid "DSP (Audio) - Echo Shadow RAM"
-msgstr "DSP（音频）- 回响影子内存"
+msgstr "DSP（音频）- 回声影子 RAM"
 
 msgctxt "#30011"
 msgid "HD Mode 7 - Scale"
-msgstr "HD 模式7 - 缩放"
+msgstr "HD 模式 7 - 缩放"
 
 msgctxt "#30012"
 msgid "HD Mode 7 - Perspective Correction"
-msgstr "HD 模式7 - 透视校正"
+msgstr "高清模式 7 - 透视校正"
 
 msgctxt "#30013"
 msgid "HD Mode 7 - Supersampling"
-msgstr "HD 模式7 - 超级采样"
+msgstr "高清模式 7 - 超采样"
 
 msgctxt "#30014"
 msgid "HD Mode 7 - HD->SD Mosaic"
-msgstr "HD 模式7 - HD->SD 马赛克"
+msgstr "高清模式 7 - HD->SD 马赛克"
 
 msgctxt "#30015"
 msgid "Internal Run-Ahead"
-msgstr "内部先行运行"
+msgstr "内部预运行"
 
 msgctxt "#30016"
 msgid "Coprocessors - Fast Mode"
@@ -91,19 +91,19 @@ msgstr "协处理器 - 快速模式"
 
 msgctxt "#30017"
 msgid "Coprocessors - Prefer HLE"
-msgstr "协处理器 - 首选 HLE"
+msgstr "协处理器 - 优先使用 HLE"
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr "修补程序"
+msgstr "热修复"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
-msgstr "熵（随机）"
+msgstr "熵（随机化）"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
-msgstr "CPU 快速运算"
+msgstr "CPU 快速数学"
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
@@ -119,7 +119,7 @@ msgstr "超频 - SuperFX 协处理器"
 
 msgctxt "#30024"
 msgid "Preferred Super Game Boy BIOS (Restart Required)"
-msgstr "首选 Super Game Boy BIOS（需要重新启动）"
+msgstr "首选 Super Game Boy BIOS（需要重启）"
 
 msgctxt "#30025"
 msgid "Hide SGB Border"
@@ -127,75 +127,75 @@ msgstr "隐藏 SGB 边框"
 
 msgctxt "#30026"
 msgid "Touchscreen Light Gun"
-msgstr "触摸屏光线枪"
+msgstr "触摸屏光枪"
 
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr "Super Scope 反向触发按钮"
+msgstr "Super Scope 反向扳机按钮"
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr "筛选器"
+msgstr "滤镜"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr "颜色调整 - 亮度"
+msgstr "色彩调整 - 亮度"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr "颜色调整 - 饱和度"
+msgstr "色彩调整 - 饱和度"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr "颜色调整 - Gamma"
+msgstr "色彩调整 - 伽马值"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr "垂直过扫描裁剪"
+msgstr "裁剪垂直过扫描"
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "更改视频输出设置。"
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "选择首选的内容宽高比。此设置仅在 RetroArch 的宽高比设置为“核心提供”时生效。"
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
-msgstr ""
+msgstr "1:1 像素宽高比（像素完美）"
 
 msgctxt "#30037"
 msgid "4:3 DAR"
-msgstr ""
+msgstr "4:3 显示宽高比"
 
 msgctxt "#30038"
 msgid "Remove N lines from the top and bottom of the screen to simulate the bezel of a television of the SNES era."
-msgstr ""
+msgstr "从屏幕顶部和底部移除 N 行，以模拟 SNES 时代的电视边框。"
 
 msgctxt "#30039"
 msgid "0 Lines"
-msgstr ""
+msgstr "0 行"
 
 msgctxt "#30040"
 msgid "8 Lines"
-msgstr ""
+msgstr "8 行"
 
 msgctxt "#30041"
 msgid "12 Lines"
-msgstr ""
+msgstr "12 行"
 
 msgctxt "#30042"
 msgid "16 Lines"
-msgstr ""
+msgstr "16 行"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
-msgstr ""
+msgstr "通过将水平相邻的像素模糊在一起，模拟标准清晰度电视 (SDTV) 有限的水平分辨率。某些游戏依赖此效果来实现透明效果。"
 
 msgctxt "#30044"
 msgid "disabled"
@@ -207,31 +207,31 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose between no filtering and blargg's NTSC filter with options for RF, Composite, S-Video, or RGB"
-msgstr ""
+msgstr "选择无滤镜或 blargg 的 NTSC 滤镜，并可选择 RF、复合、S-Video 或 RGB 模式。"
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
-msgstr ""
+msgstr "NTSC（RF）"
 
 msgctxt "#30049"
 msgid "NTSC (Composite)"
-msgstr ""
+msgstr "NTSC（复合）"
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
-msgstr ""
+msgstr "NTSC（S-视频）"
 
 msgctxt "#30051"
 msgid "NTSC (RGB)"
-msgstr ""
+msgstr "NTSC（RGB）"
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr ""
+msgstr "调整亮度"
 
 msgctxt "#30053"
 msgid "0%"
@@ -275,11 +275,11 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100%（默认）"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr ""
+msgstr "调整饱和度"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr ""
+msgstr "调整伽马值"
 
 msgctxt "#30076"
 msgid "100%"
@@ -331,159 +331,159 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150%（默认）"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
-msgstr ""
+msgstr "在牺牲少量精度的前提下，实现更快的 PPU 模拟。建议保持开启。注意：必须开启此选项，“去隔行”、“无精灵限制”和“HD 模式 7”选项才能正常工作。"
 
 msgctxt "#30079"
 msgid "Deinterlace all games by rendering internally at 480p. Performance penalty is almost non-existent, so it is recommended to leave this on."
-msgstr ""
+msgstr "通过内部以 480p 渲染来对所有游戏进行去隔行处理。性能损耗几乎可以忽略不计，因此建议保持开启。"
 
 msgctxt "#30080"
 msgid "Remove any limit to the number of sprites that can be drawn simultaneously on screen. May cause issues with some games."
-msgstr ""
+msgstr "移除屏幕上可同时绘制的精灵数量限制。可能会导致某些游戏出现问题。"
 
 msgctxt "#30081"
 msgid "Emulate a bug in older releases of ZSNES and Snes9x, where VRAM blocking was not emulated. A few older ROM hacks relied on this behavior and will render graphics incorrectly if this is not enabled. This option is extremely inaccurate and hurts PPU speed, so it is recommended to leave it disabled unless you need to play a game that is otherwise incompatible with this core."
-msgstr ""
+msgstr "模拟 ZSNES 和 Snes9x 旧版本中的一个错误，其中未模拟 VRAM 阻塞。一些较老的 ROM 破解依赖于此行为，如果未启用，图形将渲染错误。此选项极不准确且会损害 PPU 速度，因此除非需要玩与该核心不兼容的游戏，否则建议禁用。"
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "更改音频输出设置。"
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "在牺牲少量精度的前提下，实现更快的 DSP 模拟。建议保持开启。"
 
 msgctxt "#30085"
 msgid "Apply cubic interpolation to the sound, preserving more of the high range."
-msgstr ""
+msgstr "对声音应用三次插值，保留更多高频部分。"
 
 msgctxt "#30086"
 msgid "Emulate a bug in ZSNES where echo RAM was treated as separate from APU RAM. Many older ROM hacks for Super Mario World relied on this behavior and will crash without this. This option is extremely inaccurate and should not be enabled unless required."
-msgstr ""
+msgstr "模拟 ZSNES 中的一个错误，其中回声 RAM 被视为与 APU RAM 分开。许多为《超级马力欧世界》设计的较老 ROM 破解依赖于此行为，如果没有此选项，游戏将会崩溃。此选项极不准确，除非必要，否则不应启用。"
 
 msgctxt "#30087"
 msgid "HD Mode 7"
-msgstr ""
+msgstr "HD 模式 7"
 
 msgctxt "#30088"
 msgid "Change settings regarding Mode 7 graphics emulation."
-msgstr ""
+msgstr "更改关于模式 7 图形模拟的设置。"
 
 msgctxt "#30089"
 msgid "Increase the horizontal and vertical resolution of the Mode 7 graphics used in certain games."
-msgstr ""
+msgstr "提高某些游戏中使用的 HD 模式 7 图形的水平和垂直分辨率。"
 
 msgctxt "#30090"
 msgid "240p (1x)"
-msgstr ""
+msgstr "240p（1x）"
 
 msgctxt "#30091"
 msgid "480p (2x)"
-msgstr ""
+msgstr "480p（2x）"
 
 msgctxt "#30092"
 msgid "720p (3x)"
-msgstr ""
+msgstr "720p（3x）"
 
 msgctxt "#30093"
 msgid "960p (4x)"
-msgstr ""
+msgstr "960p（4x）"
 
 msgctxt "#30094"
 msgid "1200p (5x)"
-msgstr ""
+msgstr "1200p（5x）"
 
 msgctxt "#30095"
 msgid "1440p (6x)"
-msgstr ""
+msgstr "1440p（6x）"
 
 msgctxt "#30096"
 msgid "1680p (7x)"
-msgstr ""
+msgstr "1680p（7x）"
 
 msgctxt "#30097"
 msgid "1920p (8x)"
-msgstr ""
+msgstr "1920p（8x）"
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
-msgstr ""
+msgstr "通过绕过 SNES 使用的整数数学运算的一些限制，校正某些游戏中使用的 高清模式 7 图形的透视效果。"
 
 msgctxt "#30099"
 msgid "Supersample the Mode 7 graphics used in certain games. Combined with higher Mode 7 scale factors, it produces an effect similar to anti-aliasing."
-msgstr ""
+msgstr "对某些游戏中使用的模式 7 图形进行超采样。结合更高的模式 7 缩放倍数，可产生类似抗锯齿的效果。"
 
 msgctxt "#30100"
 msgid "Show the mosaic effect of Mode 7 graphics even when upscaling them."
-msgstr ""
+msgstr "即使在放大时，也显示模式 7 图形的马赛克效果。"
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr ""
+msgstr "模拟破解与增强"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
-msgstr ""
+msgstr "应用模拟破解、增强功能和热修复。"
 
 msgctxt "#30103"
 msgid "Simulate the system ahead of time and roll back to reduce input latency. Has very high system requirements."
-msgstr ""
+msgstr "模拟系统提前运行并回滚，以减少输入延迟。此功能对系统要求非常高。"
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1 帧"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2 帧"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3 帧"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4 帧"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "以轻微降低精度为代价，启用更快的协处理器模拟。建议保持开启。"
 
 msgctxt "#30109"
 msgid "When this option is enabled, less accurate HLE emulation will always be used when available. If disabled, HLE will only be used when LLE firmware is missing."
-msgstr ""
+msgstr "当此选项启用时，只要可用，将始终使用精度较低的 HLE 模拟。如果禁用，则仅在缺少 LLE 固件时才使用 HLE。"
 
 msgctxt "#30110"
 msgid "Even commercially licensed and officially released software is sometimes shipped with bugs. This option will correct certain issues that occurred even on real hardware."
-msgstr ""
+msgstr "即使是商业授权并正式发布的软件，有时也会带有错误。此选项将修正即使在真实硬件上也会出现的某些问题。"
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr ""
+msgstr "选择内存和寄存器的随机化级别。如果设为“无”，所有内存和寄存器在启动时都将初始化为固定值。低随机化能最准确地模拟真实系统。高随机化则尽可能地进行随机化。"
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr ""
+msgstr "立即提供计算结果。在真实的 SNES 上，CPU 的乘法和除法运算需要时间才能完成。较旧的模拟器并未模拟这些延迟，因此一些较老的 ROM 破解程序不会等待数学运算完成，而需要此破解。"
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
-msgstr ""
+msgstr "超频/降频"
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr ""
+msgstr "更改模拟硬件的速度。"
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "对 CPU 进行超频或降频。将此值设置为高于 100% 可能会缩短加载时间并消除卡顿。请谨慎使用，因为它也可能导致某些游戏崩溃或出现其他问题。"
 
 msgctxt "#30116"
 msgid "210%"
@@ -567,11 +567,11 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Overclock or downclock the Super Accelerator 1 (SA-1) chip. Setting this value above 100% may improve performance in games that support the SA-1 chip. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "对超级加速器 1 (SA-1) 芯片进行超频或降频。将此值设置为高于 100% 可能会提升支持 SA-1 芯片的游戏性能。请谨慎使用，因为它也可能导致某些游戏崩溃或出现其他问题。"
 
 msgctxt "#30137"
 msgid "Overclock or downclock the SuperFX coprocessor. Setting this value above 100% may improve performance in games that support the SuperFX. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "对 SuperFX 协处理器进行超频或降频。将此值设置为高于 100% 可能会提升支持 SuperFX 的游戏的性能。请谨慎使用，因为它也可能导致某些游戏崩溃或出现其他问题。"
 
 msgctxt "#30138"
 msgid "410%"
@@ -739,39 +739,39 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
-msgstr ""
+msgstr "更改关于 Super Game Boy 模拟的设置。"
 
 msgctxt "#30180"
 msgid "Choose the preferred Super Game Boy BIOS to be used with compatible titles."
-msgstr ""
+msgstr "选择用于兼容游戏的首选 Super Game Boy BIOS。"
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
-msgstr ""
+msgstr "超级游戏男孩（SGB1.sfc）"
 
 msgctxt "#30182"
 msgid "Super Game Boy 2 (SGB2.sfc)"
-msgstr ""
+msgstr "超级游戏男孩 2 (SGB2.sfc)"
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
-msgstr ""
+msgstr "在游玩超级游戏男孩游戏时隐藏边框。"
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "光枪"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."
-msgstr ""
+msgstr "更改（触摸屏）光枪设置。"
 
 msgctxt "#30186"
 msgid "Enable Super Scope input for touchscreen devices."
-msgstr ""
+msgstr "为触摸屏设备启用 Super Scope 输入。"
 
 msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
-msgstr ""
+msgstr "使用触摸屏光枪时，反转 Super Scope 的扳机键和光标键。"
 
 msgctxt "#30188"
 msgid "NTSC"

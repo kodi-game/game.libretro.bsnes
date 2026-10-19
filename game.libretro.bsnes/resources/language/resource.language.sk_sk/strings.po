@@ -95,7 +95,7 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr ""
+msgstr "Záplaty"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
-msgstr ""
+msgstr "Pretaktovanie - CPU"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Filtrovať"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Zmena nastavení video výstupu."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Žiadne"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "NTSC (Composite)"
-msgstr ""
+msgstr "NTSC (kompozitné)"
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (predvolené)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Zvuk"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Zmena nastavení audio výstupu."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -439,19 +439,19 @@ msgstr ""
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1 snímka"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2 snímky"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3 snímky"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4 snímky"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -759,7 +759,7 @@ msgstr ""
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "Svetelná pištoľ"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."

@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
-msgstr ""
+msgstr "CPU 超頻中"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "過濾器"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
@@ -151,19 +151,19 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr ""
+msgstr "裁剪垂直過度掃描"
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "變更影像輸出的設定。"
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "設定畫面的寬高比, 僅限「設定/顯示/縮放」選項中, 設定「寬高比」為<核心參數>時使用。"
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "無"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (預設)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "音效"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "變更音效相關的設定。"
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -383,35 +383,35 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "240p (1x)"
-msgstr ""
+msgstr "240p (1倍)"
 
 msgctxt "#30091"
 msgid "480p (2x)"
-msgstr ""
+msgstr "480p (2倍)"
 
 msgctxt "#30092"
 msgid "720p (3x)"
-msgstr ""
+msgstr "720p (3倍)"
 
 msgctxt "#30093"
 msgid "960p (4x)"
-msgstr ""
+msgstr "960p (4倍)"
 
 msgctxt "#30094"
 msgid "1200p (5x)"
-msgstr ""
+msgstr "1200p (5倍)"
 
 msgctxt "#30095"
 msgid "1440p (6x)"
-msgstr ""
+msgstr "1440p (6倍)"
 
 msgctxt "#30096"
 msgid "1680p (7x)"
-msgstr ""
+msgstr "1680p (7倍)"
 
 msgctxt "#30097"
 msgid "1920p (8x)"
-msgstr ""
+msgstr "1920p (8倍)"
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
@@ -439,19 +439,19 @@ msgstr ""
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1幀數"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2幀數"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3幀數"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4幀數"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -735,7 +735,7 @@ msgstr ""
 
 msgctxt "#30178"
 msgid "Super Game Boy"
-msgstr ""
+msgstr "Super Game Boy 介面卡"
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
@@ -747,11 +747,11 @@ msgstr ""
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
-msgstr ""
+msgstr "Super Game Boy 介面卡 (SGB1.sfc)"
 
 msgctxt "#30182"
 msgid "Super Game Boy 2 (SGB2.sfc)"
-msgstr ""
+msgstr "Super Game Boy 2 介面卡 (SGB2.sfc)"
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
@@ -759,7 +759,7 @@ msgstr ""
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "光線槍"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."

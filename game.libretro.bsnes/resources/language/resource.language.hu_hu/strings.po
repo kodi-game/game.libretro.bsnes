@@ -31,15 +31,15 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Kívánt képarány"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
-msgstr ""
+msgstr "Elmosás emulálása"
 
 msgctxt "#30004"
 msgid "PPU (Video) - Fast Mode"
-msgstr ""
+msgstr "PPU (Video) - gyors mód"
 
 msgctxt "#30005"
 msgid "PPU (Video) - Deinterlace"
@@ -47,19 +47,19 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "PPU (Video) - No Sprite Limit"
-msgstr ""
+msgstr "PPU (Video) - sprite limit eltávolítás"
 
 msgctxt "#30007"
 msgid "PPU (Video) - No VRAM Blocking"
-msgstr ""
+msgstr "PPU (Video) - nincs VRAM blokkolás"
 
 msgctxt "#30008"
 msgid "DSP (Audio) - Fast Mode"
-msgstr ""
+msgstr "DSP (Audio) - gyors mód"
 
 msgctxt "#30009"
 msgid "DSP (Audio) - Cubic Interpolation"
-msgstr ""
+msgstr "DSP (Audio) - köbös interpoláció"
 
 msgctxt "#30010"
 msgid "DSP (Audio) - Echo Shadow RAM"
@@ -67,135 +67,135 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "HD Mode 7 - Scale"
-msgstr ""
+msgstr "HD Mode 7 - méretezés"
 
 msgctxt "#30012"
 msgid "HD Mode 7 - Perspective Correction"
-msgstr ""
+msgstr "HD Mode 7 - perspektíva korrekció"
 
 msgctxt "#30013"
 msgid "HD Mode 7 - Supersampling"
-msgstr ""
+msgstr "HD mode 7 - felülmintavételezés"
 
 msgctxt "#30014"
 msgid "HD Mode 7 - HD->SD Mosaic"
-msgstr ""
+msgstr "HD Mode 7 - HD->SD mozaik"
 
 msgctxt "#30015"
 msgid "Internal Run-Ahead"
-msgstr ""
+msgstr "Belső run-ahead"
 
 msgctxt "#30016"
 msgid "Coprocessors - Fast Mode"
-msgstr ""
+msgstr "Koprocesszorok - gyors mód"
 
 msgctxt "#30017"
 msgid "Coprocessors - Prefer HLE"
-msgstr ""
+msgstr "Koprocesszorok - HLE"
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr ""
+msgstr "Gyorsjavítások"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
-msgstr ""
+msgstr "Entrópia (véletlenszerűség)"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
-msgstr ""
+msgstr "CPU gyors matematikai műveletek"
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
-msgstr ""
+msgstr "Túlhajtás - CPU"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
-msgstr ""
+msgstr "Túlhajtás - SA-1 koprocesszor"
 
 msgctxt "#30023"
 msgid "Overclocking - SuperFX Coprocessor"
-msgstr ""
+msgstr "Túlhajtás - SuperFX koprocesszor"
 
 msgctxt "#30024"
 msgid "Preferred Super Game Boy BIOS (Restart Required)"
-msgstr ""
+msgstr "Super Game Boy BIOS (újraindítás szükséges)"
 
 msgctxt "#30025"
 msgid "Hide SGB Border"
-msgstr ""
+msgstr "SGB keret elrejtése"
 
 msgctxt "#30026"
 msgid "Touchscreen Light Gun"
-msgstr ""
+msgstr "Érintőképernyős fénypisztoly"
 
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr ""
+msgstr "Super Scope ravaszgombok megfordítása"
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Szűrő"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr ""
+msgstr "Színbeállítás - Fényerő"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr ""
+msgstr "Színbeállítás - Színtelítettség"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr ""
+msgstr "Színbeállítás - Gamma"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr ""
+msgstr "Függőleges overscan levágása"
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Kép"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "A képkimenet beállításai."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "A tartalom kívánt képaránya. Csak akkor lép életbe, ha a RetroArch saját képarány beállítása \"Mag által meghatározott\" értékre van állítva a kép beállításainál."
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
-msgstr ""
+msgstr "1:1 pixelarány (pixelpontos)"
 
 msgctxt "#30037"
 msgid "4:3 DAR"
-msgstr ""
+msgstr "4:3 kijelzőarány"
 
 msgctxt "#30038"
 msgid "Remove N lines from the top and bottom of the screen to simulate the bezel of a television of the SNES era."
-msgstr ""
+msgstr "N sor levágása a képernyő aljáról és tetejéről, az SNES korabeli televíziók kávájának szimulálásához."
 
 msgctxt "#30039"
 msgid "0 Lines"
-msgstr ""
+msgstr "0 sor"
 
 msgctxt "#30040"
 msgid "8 Lines"
-msgstr ""
+msgstr "8 sor"
 
 msgctxt "#30041"
 msgid "12 Lines"
-msgstr ""
+msgstr "12 sor"
 
 msgctxt "#30042"
 msgid "16 Lines"
-msgstr ""
+msgstr "16 sor"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
-msgstr ""
+msgstr "Az SDTV korlátozott vízszintes felbontásának szimulálása a vízszintesen szomszédos képpontok összemosásával. Néhány játék hagyatkozik erre átlátszósági effektek céljából."
 
 msgctxt "#30044"
 msgid "disabled"
@@ -207,19 +207,19 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose between no filtering and blargg's NTSC filter with options for RF, Composite, S-Video, or RGB"
-msgstr ""
+msgstr "blargg NTSC szűrője RF modulált, kompozit, S-Video, vagy RGB módban, vagy szűrés nélkül"
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Nincs"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
-msgstr ""
+msgstr "NTSC (RF modulált)"
 
 msgctxt "#30049"
 msgid "NTSC (Composite)"
-msgstr ""
+msgstr "NTSC (Kompozit)"
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr ""
+msgstr "Fényerő beállítása"
 
 msgctxt "#30053"
 msgid "0%"
@@ -275,11 +275,11 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (alapértelmezett)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr ""
+msgstr "Színtelítettség beállítása"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr ""
+msgstr "Gamma érték beállítása"
 
 msgctxt "#30076"
 msgid "100%"
@@ -331,43 +331,43 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150% (alapértelmezett)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
-msgstr ""
+msgstr "A PPU gyorsabb emulációja, a pontosság kis csökkenése árán. Ajánlott bekapcsolva hagyni. Figyelem: ez a beállítás szükséges a deinterlace, sprite limit eltávolítása, és a HD Mode 7 opciókhoz."
 
 msgctxt "#30079"
 msgid "Deinterlace all games by rendering internally at 480p. Performance penalty is almost non-existent, so it is recommended to leave this on."
-msgstr ""
+msgstr "Deinterlace, 480p módú belső képelőállítás minden játékhoz. A teljesítménycsökkenés majdhogynem észrevehetetlen, ajánlott bekapcsolva hagyni."
 
 msgctxt "#30080"
 msgid "Remove any limit to the number of sprites that can be drawn simultaneously on screen. May cause issues with some games."
-msgstr ""
+msgstr "A képernyőre egyidőben kirajzolható sprite-ok száma nem korlátozott. Néhány játéknál gondot okozhat."
 
 msgctxt "#30081"
 msgid "Emulate a bug in older releases of ZSNES and Snes9x, where VRAM blocking was not emulated. A few older ROM hacks relied on this behavior and will render graphics incorrectly if this is not enabled. This option is extremely inaccurate and hurts PPU speed, so it is recommended to leave it disabled unless you need to play a game that is otherwise incompatible with this core."
-msgstr ""
+msgstr "Egy, régebbi ZSNES és Snes9x emulátorokban jelen levő programhiba emulálása, ahol a VRAM blokkolás nem volt kezelve. Néhány régi ROM hack hagyatkozik erre és nem jól állítja elő a grafikát enélkül. Ez a beállítás nagyon pontatlan és rossz hatással van a PPU sebességre, így ajánlott kikapcsolva hagyni, hacsak a játék amúgy nem inkompatibilis ezzel a maggal."
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Hang"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "A hangkimenet beállításai."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "A DSP gyorsabb emulálása, cserébe a pontosság kismértékű csökkenéséért. Ajánlott bekapcsolva hagyni."
 
 msgctxt "#30085"
 msgid "Apply cubic interpolation to the sound, preserving more of the high range."
-msgstr ""
+msgstr "A hang köbös interpolálása, amely jobban megőrzi a magastartományt."
 
 msgctxt "#30086"
 msgid "Emulate a bug in ZSNES where echo RAM was treated as separate from APU RAM. Many older ROM hacks for Super Mario World relied on this behavior and will crash without this. This option is extremely inaccurate and should not be enabled unless required."
-msgstr ""
+msgstr "A ZSNES egy hibájának emulálása, ahol az echo RAM külön volt kezelve az APU RAM-tól. A Super Mario World sok régebbi ROM hack-je hagyatkozik erre a viselkedésre, és összeomlik nélküle. Ez az opció igen pontatlan és nem ajánlott engedélyezni, hacsak nem muszáj."
 
 msgctxt "#30087"
 msgid "HD Mode 7"
@@ -375,11 +375,11 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Change settings regarding Mode 7 graphics emulation."
-msgstr ""
+msgstr "A Mode 7 grafika emulációs beállításai."
 
 msgctxt "#30089"
 msgid "Increase the horizontal and vertical resolution of the Mode 7 graphics used in certain games."
-msgstr ""
+msgstr "A bizonyos játékokban használt Mode 7 grafika vízszintes és függőleges felbontásának megnövelése."
 
 msgctxt "#30090"
 msgid "240p (1x)"
@@ -415,75 +415,75 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
-msgstr ""
+msgstr "A bizonyos játékok által használt Mode 7 grafika perspektívájának javítása, az SNES néhány egészértékes műveleti korlátjának megkerülésével."
 
 msgctxt "#30099"
 msgid "Supersample the Mode 7 graphics used in certain games. Combined with higher Mode 7 scale factors, it produces an effect similar to anti-aliasing."
-msgstr ""
+msgstr "A bizonyos játékokban használt Mode 7 grafika felülmintavételezése. A Mode 7 nagyobb méreteivel együtt élsimításhoz hasonló effektet ad."
 
 msgctxt "#30100"
 msgid "Show the mosaic effect of Mode 7 graphics even when upscaling them."
-msgstr ""
+msgstr "A Mode 7 grafika mozaik effektjének megjelenítése akkor is, ha felméretezés történik."
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr ""
+msgstr "Emulációs trükkök és továbbfejlesztések"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
-msgstr ""
+msgstr "Az emuláció trükkjei, továbbfejlesztései és gyorsjavításai."
 
 msgctxt "#30103"
 msgid "Simulate the system ahead of time and roll back to reduce input latency. Has very high system requirements."
-msgstr ""
+msgstr "A rendszer idő előtti szimulálása, majd visszagörgetése, a bemeneti késleltetés csökkentéséhez. Nagyon magas a rendszerigénye."
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1 képkocka"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2 képkocka"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3 képkocka"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4 képkocka"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "A koprocesszorok gyorsabb emulálása, cserébe a pontosság kismértékű csökkenéséért. Ajánlott bekapcsolva hagyni."
 
 msgctxt "#30109"
 msgid "When this option is enabled, less accurate HLE emulation will always be used when available. If disabled, HLE will only be used when LLE firmware is missing."
-msgstr ""
+msgstr "Ha ez a beállítás be van kapcsolva, a kevésbé pontos HLE emuláció lesz használatban, amikor csak van rá lehetőség. Kikapcsolva csak akkor, ha hiányzik az LLE firmware."
 
 msgctxt "#30110"
 msgid "Even commercially licensed and officially released software is sometimes shipped with bugs. This option will correct certain issues that occurred even on real hardware."
-msgstr ""
+msgstr "Néha még a kereskedelmi forgalomba került játékok is tartalmaznak hibát. Ez a beállítás kijavít néhány problémát, ami a valós hardveren jelentkezett."
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr ""
+msgstr "A memória és regiszterek véletlenszerűségének szintje. Nincs esetén minden memória és regiszter konstans értéket kap indításkor. Az alacsony véletlenszerűség hasonlít legjobban a valódi rendszerre. A magas véletlenszerűség a lehető legtöbb véletlen értéket generálja."
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr ""
+msgstr "A számítási műveletek eredménye azonnal rendelkezésre áll. A CPU alapú szorzás és osztás egy valódi SNES-en időt vesz igénybe. Régebbi emulátorok ezeket a késleltetéseket nem emulálták, így néhány régebbi ROM hack nem vár ezekre és szükséges hozzájuk ez a trükk."
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
-msgstr ""
+msgstr "Túl/alulhajtás"
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr ""
+msgstr "Az emulált hardver sebessége."
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "A CPU túlhajtása vagy alulhajtása. A 100% fölötti értékek csökkenthetik a töltési időket és a lassulást. Ajánlott óvatosan használni, mert néhány játék összeomolhat vagy más problémákat produkálhat."
 
 msgctxt "#30116"
 msgid "210%"
@@ -567,11 +567,11 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Overclock or downclock the Super Accelerator 1 (SA-1) chip. Setting this value above 100% may improve performance in games that support the SA-1 chip. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "A Super Accelerator (SA-1) chip túlhajtása vagy alulhajtása. A 100% fölötti értékek javíthatják a teljesítményt az SA-1 chipet támogató játékoknál. Ajánlott óvatosan használni, mivel néhány játék összeomolhat vagy más problémákat produkálhat."
 
 msgctxt "#30137"
 msgid "Overclock or downclock the SuperFX coprocessor. Setting this value above 100% may improve performance in games that support the SuperFX. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "A SuperFX chip túlhajtása vagy alulhajtása. A 100% fölötti értékek javíthatják a teljesítményt a SuperFX chipet támogató játékoknál. Ajánlott óvatosan használni, mivel néhány játék összeomolhat vagy más problémákat produkálhat."
 
 msgctxt "#30138"
 msgid "410%"
@@ -739,11 +739,11 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
-msgstr ""
+msgstr "A Super Game Boy emulációs beállításai."
 
 msgctxt "#30180"
 msgid "Choose the preferred Super Game Boy BIOS to be used with compatible titles."
-msgstr ""
+msgstr "A kompatibilis címekhez használandó Super Game Boy BIOS."
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
@@ -755,23 +755,23 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
-msgstr ""
+msgstr "A keret elrejtése Super Game Boy játékok esetén."
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "Fénypisztoly"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."
-msgstr ""
+msgstr "A fénypisztoly (érintőképernyős) beállításai."
 
 msgctxt "#30186"
 msgid "Enable Super Scope input for touchscreen devices."
-msgstr ""
+msgstr "A Super Scope bemenet engedélyezése érintőképernyős eszközökön."
 
 msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
-msgstr ""
+msgstr "A Super Scope ravasz és kurzor gombok megcserélése az érintőképernyős fénypisztolynál."
 
 msgctxt "#30188"
 msgid "NTSC"

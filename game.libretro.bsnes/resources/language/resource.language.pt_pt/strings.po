@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
@@ -155,11 +155,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Alterar as definições da saída de vídeo."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Nenhum"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Áudio"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Modificar as definições de saída de som."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -467,7 +467,7 @@ msgstr ""
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr ""
+msgstr "Escolha o nível de randomização da memória e dos registos. Se definido como Nenhum, toda a memória e registos são inicializados com valores constantes no arranque. A randomização baixa fornece a representação mais precisa de um sistema real. Elevada randomiza o máximo possível."
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."

@@ -31,127 +31,127 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Tỷ lệ khung hình ưu tiên"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
-msgstr ""
+msgstr "Mô phỏng mờ"
 
 msgctxt "#30004"
 msgid "PPU (Video) - Fast Mode"
-msgstr ""
+msgstr "PPU (Video) – Chế độ nhanh"
 
 msgctxt "#30005"
 msgid "PPU (Video) - Deinterlace"
-msgstr ""
+msgstr "PPU (Video) – Khử răng cưa"
 
 msgctxt "#30006"
 msgid "PPU (Video) - No Sprite Limit"
-msgstr ""
+msgstr "PPU (Video) – Không giới hạn sprite"
 
 msgctxt "#30007"
 msgid "PPU (Video) - No VRAM Blocking"
-msgstr ""
+msgstr "PPU (Video) - Không chặn VRAM"
 
 msgctxt "#30008"
 msgid "DSP (Audio) - Fast Mode"
-msgstr ""
+msgstr "DSP (Âm thanh) - Chế độ nhanh"
 
 msgctxt "#30009"
 msgid "DSP (Audio) - Cubic Interpolation"
-msgstr ""
+msgstr "DSP (Âm thanh) - Nội suy bậc ba"
 
 msgctxt "#30010"
 msgid "DSP (Audio) - Echo Shadow RAM"
-msgstr ""
+msgstr "DSP (Âm thanh) - RAM bóng Echo"
 
 msgctxt "#30011"
 msgid "HD Mode 7 - Scale"
-msgstr ""
+msgstr "Chế độ HD 7 - Tỷ lệ"
 
 msgctxt "#30012"
 msgid "HD Mode 7 - Perspective Correction"
-msgstr ""
+msgstr "Chế độ HD Mode 7 - Hiệu chỉnh phối cảnh"
 
 msgctxt "#30013"
 msgid "HD Mode 7 - Supersampling"
-msgstr ""
+msgstr "Chế độ HD Mode 7 - Siêu lấy mẫu"
 
 msgctxt "#30014"
 msgid "HD Mode 7 - HD->SD Mosaic"
-msgstr ""
+msgstr "Chế độ HD Mode 7 - Gộp HD->SD"
 
 msgctxt "#30015"
 msgid "Internal Run-Ahead"
-msgstr ""
+msgstr "Chạy Trước Nội Bộ"
 
 msgctxt "#30016"
 msgid "Coprocessors - Fast Mode"
-msgstr ""
+msgstr "Bộ xử lý phụ - Chế độ Nhanh"
 
 msgctxt "#30017"
 msgid "Coprocessors - Prefer HLE"
-msgstr ""
+msgstr "Bộ xử lý phụ - Ưu tiên HLE"
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr ""
+msgstr "Sửa Nhanh"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
-msgstr ""
+msgstr "Entropy (ngẫu hóa)"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
-msgstr ""
+msgstr "Tính toán nhanh CPU"
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
-msgstr ""
+msgstr "Ép xung - CPU"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
-msgstr ""
+msgstr "Ép xung - Bộ xử lý phụ SA-1"
 
 msgctxt "#30023"
 msgid "Overclocking - SuperFX Coprocessor"
-msgstr ""
+msgstr "Ép xung - Bộ xử lý phụ SuperFX"
 
 msgctxt "#30024"
 msgid "Preferred Super Game Boy BIOS (Restart Required)"
-msgstr ""
+msgstr "Chọn BIOS Super Game Boy Ưu Tiên (Cần Khởi Động Lại)"
 
 msgctxt "#30025"
 msgid "Hide SGB Border"
-msgstr ""
+msgstr "Ẩn Viền SGB"
 
 msgctxt "#30026"
 msgid "Touchscreen Light Gun"
-msgstr ""
+msgstr "Súng Ánh Sáng Cảm Ứng"
 
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr ""
+msgstr "Đảo Nút Kích Hoạt Super Scope"
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Bộ lọc"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr ""
+msgstr "Điều chỉnh màu sắc - Độ sáng"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr ""
+msgstr "Điều chỉnh màu – Độ bão hòa"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr ""
+msgstr "Điều chỉnh màu – Gamma"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr ""
+msgstr "Cắt vùng hiển thị thừa theo chiều dọc"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,15 +159,15 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Điều chỉnh thiết lập đầu ra cho video."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Chọn tỷ lệ khung hình ưu tiên cho nội dung. Tùy chọn này chỉ áp dụng khi tỷ lệ khung hình của RetroArch được đặt là “Do core cung cấp” trong cài đặt Video."
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
-msgstr ""
+msgstr "1:1 PAR (Hoàn hảo từng điểm ảnh)"
 
 msgctxt "#30037"
 msgid "4:3 DAR"
@@ -175,27 +175,27 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "Remove N lines from the top and bottom of the screen to simulate the bezel of a television of the SNES era."
-msgstr ""
+msgstr "Loại bỏ N dòng từ trên và dưới màn hình để mô phỏng viền của TV thời SNES."
 
 msgctxt "#30039"
 msgid "0 Lines"
-msgstr ""
+msgstr "0 dòng"
 
 msgctxt "#30040"
 msgid "8 Lines"
-msgstr ""
+msgstr "8 dòng"
 
 msgctxt "#30041"
 msgid "12 Lines"
-msgstr ""
+msgstr "12 dòng"
 
 msgctxt "#30042"
 msgid "16 Lines"
-msgstr ""
+msgstr "16 dòng"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
-msgstr ""
+msgstr "Mô phỏng độ phân giải ngang hạn chế của TV SD bằng cách làm mờ các điểm ảnh kề nhau theo chiều ngang. Một số trò chơi dựa vào điều này để mô phỏng hiệu ứng trong suốt."
 
 msgctxt "#30044"
 msgid "disabled"
@@ -207,11 +207,11 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose between no filtering and blargg's NTSC filter with options for RF, Composite, S-Video, or RGB"
-msgstr ""
+msgstr "Chọn giữa không lọc hoặc bộ lọc NTSC của blargg với các tùy chọn RF, Composite, S-Video hoặc RGB"
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr ""
+msgstr "Điều chỉnh độ sáng"
 
 msgctxt "#30053"
 msgid "0%"
@@ -275,11 +275,11 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (Mặc định)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr ""
+msgstr "Điều chỉnh độ bão hòa"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr ""
+msgstr "Điều chỉnh Gamma"
 
 msgctxt "#30076"
 msgid "100%"
@@ -331,55 +331,55 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150% (Mặc định)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
-msgstr ""
+msgstr "Bật mô phỏng PPU nhanh hơn với một chút giảm độ chính xác. Khuyến nghị giữ bật. LƯU Ý: phải bật tùy chọn này để các tùy chọn 'Khử răng cưa', 'Không giới hạn sprite' và 'Chế độ HD Mode 7' hoạt động."
 
 msgctxt "#30079"
 msgid "Deinterlace all games by rendering internally at 480p. Performance penalty is almost non-existent, so it is recommended to leave this on."
-msgstr ""
+msgstr "Khử răng cưa cho tất cả các trò chơi bằng cách hiển thị nội bộ ở 480p. Hầu như không ảnh hưởng hiệu suất, nên khuyến nghị giữ bật."
 
 msgctxt "#30080"
 msgid "Remove any limit to the number of sprites that can be drawn simultaneously on screen. May cause issues with some games."
-msgstr ""
+msgstr "Loại bỏ giới hạn số lượng sprite có thể hiển thị đồng thời trên màn hình. Có thể gây vấn đề với một số trò chơi."
 
 msgctxt "#30081"
 msgid "Emulate a bug in older releases of ZSNES and Snes9x, where VRAM blocking was not emulated. A few older ROM hacks relied on this behavior and will render graphics incorrectly if this is not enabled. This option is extremely inaccurate and hurts PPU speed, so it is recommended to leave it disabled unless you need to play a game that is otherwise incompatible with this core."
-msgstr ""
+msgstr "Mô phỏng một lỗi trong các phiên bản cũ của ZSNES và Snes9x, nơi việc chặn VRAM không được mô phỏng. Một số bản ROM hack cũ dựa vào hành vi này và sẽ hiển thị đồ họa sai nếu tùy chọn này không được bật. Tùy chọn này rất không chính xác và làm giảm tốc độ PPU, nên khuyến nghị để tắt trừ khi bạn cần chơi một trò chơi không tương thích với core này."
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Âm thanh"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Điều chỉnh thiết lập cho âm thanh ra."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "Bật mô phỏng DSP nhanh hơn với một chút giảm độ chính xác. Khuyến nghị nên bật."
 
 msgctxt "#30085"
 msgid "Apply cubic interpolation to the sound, preserving more of the high range."
-msgstr ""
+msgstr "Áp dụng nội suy bậc ba cho âm thanh, giữ được nhiều dải cao hơn."
 
 msgctxt "#30086"
 msgid "Emulate a bug in ZSNES where echo RAM was treated as separate from APU RAM. Many older ROM hacks for Super Mario World relied on this behavior and will crash without this. This option is extremely inaccurate and should not be enabled unless required."
-msgstr ""
+msgstr "Mô phỏng một lỗi trong ZSNES, nơi RAM echo được coi là tách biệt với RAM APU. Nhiều ROM hack cũ của Super Mario World dựa vào hành vi này và sẽ bị treo nếu không có. Tùy chọn này rất không chính xác và không nên bật trừ khi cần thiết."
 
 msgctxt "#30087"
 msgid "HD Mode 7"
-msgstr ""
+msgstr "Chế độ HD Mode 7"
 
 msgctxt "#30088"
 msgid "Change settings regarding Mode 7 graphics emulation."
-msgstr ""
+msgstr "Thay đổi các thiết lập liên quan đến mô phỏng đồ họa Mode 7."
 
 msgctxt "#30089"
 msgid "Increase the horizontal and vertical resolution of the Mode 7 graphics used in certain games."
-msgstr ""
+msgstr "Tăng độ phân giải ngang và dọc của đồ họa Mode 7 được sử dụng trong một số trò chơi."
 
 msgctxt "#30090"
 msgid "240p (1x)"
@@ -415,75 +415,75 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
-msgstr ""
+msgstr "Hiệu chỉnh phối cảnh của đồ họa Mode 7 được sử dụng trong một số trò chơi bằng cách khắc phục một số giới hạn của phép toán số nguyên trên SNES."
 
 msgctxt "#30099"
 msgid "Supersample the Mode 7 graphics used in certain games. Combined with higher Mode 7 scale factors, it produces an effect similar to anti-aliasing."
-msgstr ""
+msgstr "Thực hiện siêu lấy mẫu cho đồ họa Mode 7 được sử dụng trong một số trò chơi. Kết hợp với hệ số tỉ lệ Mode 7 cao hơn, tạo ra hiệu ứng tương tự như khử răng cưa."
 
 msgctxt "#30100"
 msgid "Show the mosaic effect of Mode 7 graphics even when upscaling them."
-msgstr ""
+msgstr "Hiển thị hiệu ứng mosaic của đồ họa Mode 7 ngay cả khi phóng to."
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr ""
+msgstr "Mẹo và cải tiến mô phỏng"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
-msgstr ""
+msgstr "Áp dụng các mẹo, cải tiến và sửa lỗi nhanh cho mô phỏng."
 
 msgctxt "#30103"
 msgid "Simulate the system ahead of time and roll back to reduce input latency. Has very high system requirements."
-msgstr ""
+msgstr "Mô phỏng hệ thống trước thời gian thực và quay lại để giảm độ trễ nhập liệu. Yêu cầu hệ thống rất cao."
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1 khung hình"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2 khung hình"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3 khung hình"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4 khung hình"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "Bật mô phỏng nhanh hơn các bộ xử lý phụ với một chút giảm độ chính xác. Khuyến nghị để tùy chọn này bật."
 
 msgctxt "#30109"
 msgid "When this option is enabled, less accurate HLE emulation will always be used when available. If disabled, HLE will only be used when LLE firmware is missing."
-msgstr ""
+msgstr "Khi bật tùy chọn này, mô phỏng HLE kém chính xác hơn sẽ luôn được sử dụng nếu có. Nếu tắt, HLE chỉ dùng khi thiếu firmware LLE."
 
 msgctxt "#30110"
 msgid "Even commercially licensed and officially released software is sometimes shipped with bugs. This option will correct certain issues that occurred even on real hardware."
-msgstr ""
+msgstr "Ngay cả phần mềm thương mại có giấy phép và phát hành chính thức đôi khi vẫn có lỗi. Tùy chọn này sẽ sửa một số vấn đề xảy ra ngay cả trên phần cứng thực."
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr ""
+msgstr "Chọn mức độ ngẫu nhiên của bộ nhớ và thanh ghi. Nếu đặt thành Không, tất cả bộ nhớ và thanh ghi sẽ được khởi tạo với giá trị cố định khi khởi động. Ngẫu nhiên thấp cung cấp mô phỏng chính xác nhất của hệ thống thực. Ngẫu nhiên cao làm ngẫu nhiên tối đa có thể."
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr ""
+msgstr "Cung cấp kết quả tính toán ngay lập tức. Phép nhân và chia của CPU cần thời gian để hoàn thành trên SNES thực. Các trình giả lập cũ không mô phỏng những độ trễ này, vì vậy một số ROM hack cũ không chờ các phép toán hoàn tất và cần thủ thuật này."
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
-msgstr ""
+msgstr "Ép xung/Tụt xung"
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr ""
+msgstr "Thay đổi tốc độ phần cứng được mô phỏng."
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Ép xung hoặc giảm xung CPU. Đặt giá trị này trên 100% có thể giảm thời gian tải và loại bỏ tình trạng chậm. Sử dụng cẩn thận vì có thể khiến một số trò chơi bị treo hoặc gặp vấn đề khác."
 
 msgctxt "#30116"
 msgid "210%"
@@ -567,11 +567,11 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Overclock or downclock the Super Accelerator 1 (SA-1) chip. Setting this value above 100% may improve performance in games that support the SA-1 chip. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Ép xung hoặc giảm xung chip Super Accelerator 1 (SA-1). Đặt giá trị này trên 100% có thể cải thiện hiệu suất trong các trò chơi hỗ trợ chip SA-1. Sử dụng cẩn thận vì có thể khiến một số trò chơi bị treo hoặc gặp vấn đề khác."
 
 msgctxt "#30137"
 msgid "Overclock or downclock the SuperFX coprocessor. Setting this value above 100% may improve performance in games that support the SuperFX. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Ép xung hoặc giảm xung bộ xử lý phụ SuperFX. Đặt giá trị này trên 100% có thể cải thiện hiệu suất trong các trò chơi hỗ trợ SuperFX. Sử dụng cẩn thận vì có thể khiến một số trò chơi bị treo hoặc gặp vấn đề khác."
 
 msgctxt "#30138"
 msgid "410%"
@@ -739,11 +739,11 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
-msgstr ""
+msgstr "Cài đặt mô phỏng Super Game Boy."
 
 msgctxt "#30180"
 msgid "Choose the preferred Super Game Boy BIOS to be used with compatible titles."
-msgstr ""
+msgstr "Chọn BIOS Super Game Boy ưu tiên sẽ được sử dụng cho các trò chơi tương thích."
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
@@ -755,23 +755,23 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
-msgstr ""
+msgstr "Ẩn viền khi chơi các trò chơi Super Game Boy."
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "Súng ánh sáng"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."
-msgstr ""
+msgstr "Cài đặt súng ánh sáng (màn hình cảm ứng)."
 
 msgctxt "#30186"
 msgid "Enable Super Scope input for touchscreen devices."
-msgstr ""
+msgstr "Bật chế độ nhập liệu Super Scope cho các thiết bị màn hình cảm ứng."
 
 msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
-msgstr ""
+msgstr "Đảo nút kích hoạt và nút con trỏ của Super Scope khi dùng súng ánh sáng trên màn hình cảm ứng."
 
 msgctxt "#30188"
 msgid "NTSC"

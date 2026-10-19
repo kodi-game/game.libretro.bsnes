@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "וידאו"
 
 msgctxt "#30034"
 msgid "Change video output settings."
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "שמע"
 
 msgctxt "#30083"
 msgid "Change audio output settings."

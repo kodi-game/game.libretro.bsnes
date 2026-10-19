@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Instellingen voor video-uitvoer wijzigen."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Geluid"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Instellingen voor audio-uitvoer wijzigen."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."

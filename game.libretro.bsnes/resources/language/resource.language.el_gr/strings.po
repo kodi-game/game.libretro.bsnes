@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Φίλτρα"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
@@ -155,11 +155,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Οδηγός Βίντεο"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Αλλαγή ρυθμίσεων εξόδου βίντεο."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Κανείς"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "80%"
-msgstr ""
+msgstr "το 80%"
 
 msgctxt "#30062"
 msgid "90%"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (Προεπιλογή)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Οδηγός Ήχου"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Αλλαγή ρυθμίσεων εξόδου ήχου."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."

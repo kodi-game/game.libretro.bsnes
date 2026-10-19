@@ -31,75 +31,75 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Preferred Aspect Ratio"
-msgstr ""
+msgstr "Бажане співвідношення сторін"
 
 msgctxt "#30003"
 msgid "Blur Emulation"
-msgstr ""
+msgstr "Емуляція розмиття"
 
 msgctxt "#30004"
 msgid "PPU (Video) - Fast Mode"
-msgstr ""
+msgstr "PPU (відео) - Швидкий режим"
 
 msgctxt "#30005"
 msgid "PPU (Video) - Deinterlace"
-msgstr ""
+msgstr "PPU (відео) - Deinterlace"
 
 msgctxt "#30006"
 msgid "PPU (Video) - No Sprite Limit"
-msgstr ""
+msgstr "PPU (Відео) - Без обмежень спрайтів"
 
 msgctxt "#30007"
 msgid "PPU (Video) - No VRAM Blocking"
-msgstr ""
+msgstr "PPU (Відео) - Без блоків відеопам'яті"
 
 msgctxt "#30008"
 msgid "DSP (Audio) - Fast Mode"
-msgstr ""
+msgstr "DSP (аудіо) - Швидкий режим"
 
 msgctxt "#30009"
 msgid "DSP (Audio) - Cubic Interpolation"
-msgstr ""
+msgstr "DSP (аудіо) - Кубічна інтерполяція"
 
 msgctxt "#30010"
 msgid "DSP (Audio) - Echo Shadow RAM"
-msgstr ""
+msgstr "DSP (аудіо) - заокруглення тіней Echo"
 
 msgctxt "#30011"
 msgid "HD Mode 7 - Scale"
-msgstr ""
+msgstr "HD режим 7 - Масштаб"
 
 msgctxt "#30012"
 msgid "HD Mode 7 - Perspective Correction"
-msgstr ""
+msgstr "HD режим 7 - перспективна кореляція"
 
 msgctxt "#30013"
 msgid "HD Mode 7 - Supersampling"
-msgstr ""
+msgstr "HD режим 7 - Супервибірка"
 
 msgctxt "#30014"
 msgid "HD Mode 7 - HD->SD Mosaic"
-msgstr ""
+msgstr "HD режим 7 - HD->SD Mosaic"
 
 msgctxt "#30015"
 msgid "Internal Run-Ahead"
-msgstr ""
+msgstr "Внутрішні рухомі рухи"
 
 msgctxt "#30016"
 msgid "Coprocessors - Fast Mode"
-msgstr ""
+msgstr "Співпроцесори - Швидкий режим"
 
 msgctxt "#30017"
 msgid "Coprocessors - Prefer HLE"
-msgstr ""
+msgstr "Співпроцесори - Вознесення шкіри"
 
 msgctxt "#30018"
 msgid "Hotfixes"
-msgstr ""
+msgstr "Гарячі клавіші"
 
 msgctxt "#30019"
 msgid "Entropy (randomization)"
-msgstr ""
+msgstr "Ентропія (випадково)"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
@@ -107,63 +107,63 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
-msgstr ""
+msgstr "Розкриття - ЦП"
 
 msgctxt "#30022"
 msgid "Overclocking - SA-1 Coprocessor"
-msgstr ""
+msgstr "Перехід - SA-1 копресор"
 
 msgctxt "#30023"
 msgid "Overclocking - SuperFX Coprocessor"
-msgstr ""
+msgstr "Перемикання - SuperFX коповтор"
 
 msgctxt "#30024"
 msgid "Preferred Super Game Boy BIOS (Restart Required)"
-msgstr ""
+msgstr "Бажаний Super Game Boy BIOS (необхідно перезапустити)"
 
 msgctxt "#30025"
 msgid "Hide SGB Border"
-msgstr ""
+msgstr "Сховати рамку SGB"
 
 msgctxt "#30026"
 msgid "Touchscreen Light Gun"
-msgstr ""
+msgstr "Швидкострільність сенсорного екрану"
 
 msgctxt "#30027"
 msgid "Super Scope Reverse Trigger Buttons"
-msgstr ""
+msgstr "Реверсивна кнопка для фронтальної сфери"
 
 msgctxt "#30028"
 msgid "Filter"
-msgstr ""
+msgstr "Фільтр"
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr ""
+msgstr "Коригування кольору - світла"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr ""
+msgstr "Коригування кольору - Насиченість"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr ""
+msgstr "Регулювання кольору - Гамма"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr ""
+msgstr "Обрізати вертикальний обхід"
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Відео"
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Змінити налаштування виводу відео."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Виберіть бажане співвідношення сторін вмісту. Воно буде застосовано тільки коли в параметрах RetroArch's буде встановлено 'Core з параметрами."
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
@@ -171,31 +171,31 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "4:3 DAR"
-msgstr ""
+msgstr "4:3 ДНР"
 
 msgctxt "#30038"
 msgid "Remove N lines from the top and bottom of the screen to simulate the bezel of a television of the SNES era."
-msgstr ""
+msgstr "Видалити N рядків зверху і внизу екрану, щоб симулювати гель телебачення епохи SNES."
 
 msgctxt "#30039"
 msgid "0 Lines"
-msgstr ""
+msgstr "0 рядків"
 
 msgctxt "#30040"
 msgid "8 Lines"
-msgstr ""
+msgstr "8 рядків"
 
 msgctxt "#30041"
 msgid "12 Lines"
-msgstr ""
+msgstr "12 рядків"
 
 msgctxt "#30042"
 msgid "16 Lines"
-msgstr ""
+msgstr "16 рядків"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
-msgstr ""
+msgstr "Імітуйте обмежену горизонтальну роздільну здатність SDTV, розмиваючи горизонтально-прилеглі пікселі. Деякі ігри залежать від цього, щоб наслідувати ефект прозорості."
 
 msgctxt "#30044"
 msgid "disabled"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose between no filtering and blargg's NTSC filter with options for RF, Composite, S-Video, or RGB"
-msgstr ""
+msgstr "Оберіть без фільтрації та фільтра blargg's NTSC з параметрами RF, Composite, S-Video, або RGB"
 
 msgctxt "#30047"
 msgid "None"
@@ -223,7 +223,7 @@ msgstr ""
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
-msgstr ""
+msgstr "NTSC (S-відео)"
 
 msgctxt "#30051"
 msgid "NTSC (RGB)"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr ""
+msgstr "Налаштування яскравості"
 
 msgctxt "#30053"
 msgid "0%"
@@ -275,11 +275,11 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (за замовчуванням)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr ""
+msgstr "Налаштувати насиченість"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr ""
+msgstr "Регулювання гамми"
 
 msgctxt "#30076"
 msgid "100%"
@@ -331,55 +331,55 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150% (За замовчуванням)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
-msgstr ""
+msgstr "Увімкнення швидше емуляції PPU за рахунок незначного зниження точності. Рекомендується це залишити. ПРИМІТКА: це повинно бути включено для \"Deinterlace\", \"No Sprite Limit\" і опції 'HD Mode 7' для роботи."
 
 msgctxt "#30079"
 msgid "Deinterlace all games by rendering internally at 480p. Performance penalty is almost non-existent, so it is recommended to leave this on."
-msgstr ""
+msgstr "Deinterlace усі ігри шляхом рендерингу о 480. Штрафність продуктивності майже не існує, тому рекомендується це залишити."
 
 msgctxt "#30080"
 msgid "Remove any limit to the number of sprites that can be drawn simultaneously on screen. May cause issues with some games."
-msgstr ""
+msgstr "Видаляйте будь-який ліміт по кількості спрайтів, які можуть бути відображені одночасно на екрані. Може викликати проблеми з деякими іграми."
 
 msgctxt "#30081"
 msgid "Emulate a bug in older releases of ZSNES and Snes9x, where VRAM blocking was not emulated. A few older ROM hacks relied on this behavior and will render graphics incorrectly if this is not enabled. This option is extremely inaccurate and hurts PPU speed, so it is recommended to leave it disabled unless you need to play a game that is otherwise incompatible with this core."
-msgstr ""
+msgstr "Емуляція помилки в старих версіях ZSNES і Snes9x, де не було наслідовано блокування VRAM. Декілька старих ROM покладаються на таку поведінку і буде візуально відображено неправильно якщо це не увімкнено. Цей параметр є надзвичайно неточним і уражує швидкість PPU, тому рекомендується залишити гру вимкненою, якщо ви не будете грати в іншу, несумісну з цим ядром."
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Змінити налаштування виводу звуку."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "Увімкнення швидше емуляції DSP ціною незначного зниження точності. Рекомендується залишити це."
 
 msgctxt "#30085"
 msgid "Apply cubic interpolation to the sound, preserving more of the high range."
-msgstr ""
+msgstr "Застосовуйте кубічну інтерполяцію до звуку, зберігаючи більше високих діапазонів."
 
 msgctxt "#30086"
 msgid "Emulate a bug in ZSNES where echo RAM was treated as separate from APU RAM. Many older ROM hacks for Super Mario World relied on this behavior and will crash without this. This option is extremely inaccurate and should not be enabled unless required."
-msgstr ""
+msgstr "Емуляція помилок в ZSNES, де echo RAM розглядалася як окрема від APU RAM. Багато старих ROM для Super Mario World покладалися на цю поведінку і без цього не відбудеться. Цей параметр є надзвичайно неточним і не повинен бути включений, якщо не потрібно."
 
 msgctxt "#30087"
 msgid "HD Mode 7"
-msgstr ""
+msgstr "HD режим 7"
 
 msgctxt "#30088"
 msgid "Change settings regarding Mode 7 graphics emulation."
-msgstr ""
+msgstr "Змінити налаштування щодо режиму 7 графічних емуляцій."
 
 msgctxt "#30089"
 msgid "Increase the horizontal and vertical resolution of the Mode 7 graphics used in certain games."
-msgstr ""
+msgstr "Збільшити горизонтальну та вертикальну роздільну здатність режиму 7 графік, що використовується в певних іграх."
 
 msgctxt "#30090"
 msgid "240p (1x)"
@@ -387,15 +387,15 @@ msgstr ""
 
 msgctxt "#30091"
 msgid "480p (2x)"
-msgstr ""
+msgstr "480p (2 х)"
 
 msgctxt "#30092"
 msgid "720p (3x)"
-msgstr ""
+msgstr "720 р (3 х)"
 
 msgctxt "#30093"
 msgid "960p (4x)"
-msgstr ""
+msgstr "960р (4x)"
 
 msgctxt "#30094"
 msgid "1200p (5x)"
@@ -415,27 +415,27 @@ msgstr ""
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
-msgstr ""
+msgstr "Виправити перспективу для режиму 7 графік, які використовуються в певних іграх, працюючи навколо обмежень на цілочисельне обчислення, яке використовує SNES."
 
 msgctxt "#30099"
 msgid "Supersample the Mode 7 graphics used in certain games. Combined with higher Mode 7 scale factors, it produces an effect similar to anti-aliasing."
-msgstr ""
+msgstr "Постачальники режимів 7 графіки, які використовуються в певних іграх. У поєднанні з більш високим режимом 7 факторами масштабування, вони створюють ефект, подібний до згладжування."
 
 msgctxt "#30100"
 msgid "Show the mosaic effect of Mode 7 graphics even when upscaling them."
-msgstr ""
+msgstr "Показати ефект мозаїки 7 графіки режиму, навіть при їх збільшенні."
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr ""
+msgstr "Емуляція Hacks і Посилення"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
-msgstr ""
+msgstr "Застосовуйте хаки емуляції, покращення і виправлення готелю."
 
 msgctxt "#30103"
 msgid "Simulate the system ahead of time and roll back to reduce input latency. Has very high system requirements."
-msgstr ""
+msgstr "Моделюйте систему достроково, аби зменшити час на вводу. Має дуже високі системні вимоги."
 
 msgctxt "#30104"
 msgid "1 frame"
@@ -455,35 +455,35 @@ msgstr ""
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."
-msgstr ""
+msgstr "Вмикається швидше емуляція копій за рахунок незначного зниження точності. Рекомендується залишити це."
 
 msgctxt "#30109"
 msgid "When this option is enabled, less accurate HLE emulation will always be used when available. If disabled, HLE will only be used when LLE firmware is missing."
-msgstr ""
+msgstr "Коли цю опцію увімкнено, менше точного емуляції HLE буде використовуватися завжди при наявності. Якщо вимкнено, HLE буде використовуватися лише коли не встановлено прошивку LLE."
 
 msgctxt "#30110"
 msgid "Even commercially licensed and officially released software is sometimes shipped with bugs. This option will correct certain issues that occurred even on real hardware."
-msgstr ""
+msgstr "Навіть опубліковане і офіційно випущене програмне забезпечення іноді відправляється з помилками. Цей параметр буде виправляти певні проблеми, які виникали навіть на реальному обладнанні."
 
 msgctxt "#30111"
 msgid "Choose the level of randomization of the memory and registers. If set to None, all memory and registers are initialized to constant values at startup. Low randomization provides the most accurate representation of a real system. High randomizes as much as possible."
-msgstr ""
+msgstr "Виберіть рівень рандомізації пам'яті і реєстрацій. Якщо встановлено \"Ні\", вся пам'ять та реєстри ініціалізуються до постійних значень під час запуску. Низька рандомізація забезпечує найбільш точне представлення реальної системи. Висока випадковість, наскільки це можливо."
 
 msgctxt "#30112"
 msgid "Provide computation results immediately. CPU multiplication and division take time to complete on a real SNES. Older emulators did not simulate these delays and thus some older ROM hacks do not wait for math operations to complete and need this hack."
-msgstr ""
+msgstr "Негайно надасте результат обчислення. множення та ділення процесора потребують часу, щоб завершити роботу на реальному SNES. Старіші емулятори не моделювали цих затримок, і таким чином деякі старі програми не чекають завершення математичних операцій і потребують цього хаку."
 
 msgctxt "#30113"
 msgid "Over-/Downclocking"
-msgstr ""
+msgstr "Над/Звантаження"
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr ""
+msgstr "Змінити швидкість емульованого обладнання."
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "Розгін або уповільнення ЦП. Налаштування цього значення вище 100% може зменшувати час завантаження і видаляти уповільнення. Використовуйте з обережністю, тому що це також може призвести до аварії або виявлення інших проблем."
 
 msgctxt "#30116"
 msgid "210%"
@@ -567,11 +567,11 @@ msgstr ""
 
 msgctxt "#30136"
 msgid "Overclock or downclock the Super Accelerator 1 (SA-1) chip. Setting this value above 100% may improve performance in games that support the SA-1 chip. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "За розкладом або зменшенням Супер прискорювача 1 (SA-1). Встановлення цього значення вище 100% може покращити продуктивність у іграх, які підтримують SA-1 чіп. Використовуйте з обережністю, так як це може також призвести до аварії або виявлення інших питань."
 
 msgctxt "#30137"
 msgid "Overclock or downclock the SuperFX coprocessor. Setting this value above 100% may improve performance in games that support the SuperFX. Use with caution, as it may also cause some games to crash or exhibit other issues."
-msgstr ""
+msgstr "За розкладом або зменшенням Супер прискорювача 1 (Sa-1). Встановлення цього значення вище 100% може покращити продуктивність у іграх, які підтримують Sa-1 чіп. Використовуйте з обережністю, так як це може також призвести до аварії або виявлення інших питань."
 
 msgctxt "#30138"
 msgid "410%"
@@ -739,39 +739,39 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Change settings regarding the Super Game Boy emulation."
-msgstr ""
+msgstr "Змінити налаштування щодо емуляції супер-хлопця гри."
 
 msgctxt "#30180"
 msgid "Choose the preferred Super Game Boy BIOS to be used with compatible titles."
-msgstr ""
+msgstr "Виберіть бажаний Super Game Boy BIOS для використання з сумісними заголовками."
 
 msgctxt "#30181"
 msgid "Super Game Boy (SGB1.sfc)"
-msgstr ""
+msgstr "Супер Хлопчик гри (SGB1.sfc)"
 
 msgctxt "#30182"
 msgid "Super Game Boy 2 (SGB2.sfc)"
-msgstr ""
+msgstr "Супер Хлопець гри 2 (SGB2.sfc)"
 
 msgctxt "#30183"
 msgid "Hide the border when playing Super Game Boy games."
-msgstr ""
+msgstr "Приховати межу під час гри у супер-хлопці."
 
 msgctxt "#30184"
 msgid "Light Gun"
-msgstr ""
+msgstr "Легкий пістолет"
 
 msgctxt "#30185"
 msgid "Change (touchscreen) light gun settings."
-msgstr ""
+msgstr "Зміна налаштувань підсвічування сенсорного екрану."
 
 msgctxt "#30186"
 msgid "Enable Super Scope input for touchscreen devices."
-msgstr ""
+msgstr "Увімкнути супер масштабне введення для пристроїв з сенсорним екраном."
 
 msgctxt "#30187"
 msgid "Reverse the Super Scope trigger and cursor buttons with the touchscreen lightgun."
-msgstr ""
+msgstr "Обернений тригер \"Супер скоп\" та кнопки курсору за допомогою підсвічування сенсорного екрану."
 
 msgctxt "#30188"
 msgid "NTSC"

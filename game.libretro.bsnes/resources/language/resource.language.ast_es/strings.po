@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30034"
 msgid "Change video output settings."
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "NTSC (Composite)"
-msgstr ""
+msgstr "NTSC (videu compuestu)"
 
 msgctxt "#30050"
 msgid "NTSC (S-Video)"
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "100% (Default)"
-msgstr ""
+msgstr "100% (Por defeutu)"
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
@@ -331,7 +331,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150% (por defeutu)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Audiu"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
@@ -383,35 +383,35 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "240p (1x)"
-msgstr ""
+msgstr "240p (x1)"
 
 msgctxt "#30091"
 msgid "480p (2x)"
-msgstr ""
+msgstr "480p (x2)"
 
 msgctxt "#30092"
 msgid "720p (3x)"
-msgstr ""
+msgstr "720p (x3)"
 
 msgctxt "#30093"
 msgid "960p (4x)"
-msgstr ""
+msgstr "960p (x4)"
 
 msgctxt "#30094"
 msgid "1200p (5x)"
-msgstr ""
+msgstr "1200p (x5)"
 
 msgctxt "#30095"
 msgid "1440p (6x)"
-msgstr ""
+msgstr "1440p (x6)"
 
 msgctxt "#30096"
 msgid "1680p (7x)"
-msgstr ""
+msgstr "1680p (x7)"
 
 msgctxt "#30097"
 msgid "1920p (8x)"
-msgstr ""
+msgstr "1920p (x8)"
 
 msgctxt "#30098"
 msgid "Correct the perspective of the Mode 7 graphics used in certain games by working around some limitations of the integer math used by the SNES."
@@ -439,19 +439,19 @@ msgstr ""
 
 msgctxt "#30104"
 msgid "1 frame"
-msgstr ""
+msgstr "1 fotograma"
 
 msgctxt "#30105"
 msgid "2 frames"
-msgstr ""
+msgstr "2 fotogrames"
 
 msgctxt "#30106"
 msgid "3 frames"
-msgstr ""
+msgstr "3 fotogrames"
 
 msgctxt "#30107"
 msgid "4 frames"
-msgstr ""
+msgstr "4 fotogrames"
 
 msgctxt "#30108"
 msgid "Enable faster emulation of the coprocessors at the cost of a minor reduction of accuracy. It is recommended to leave this on."

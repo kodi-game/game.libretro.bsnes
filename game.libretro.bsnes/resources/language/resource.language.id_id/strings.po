@@ -139,19 +139,19 @@ msgstr ""
 
 msgctxt "#30029"
 msgid "Color Adjustment - Luminance"
-msgstr ""
+msgstr "Penyesuaian Warna - Serian"
 
 msgctxt "#30030"
 msgid "Color Adjustment - Saturation"
-msgstr ""
+msgstr "Penyesuaian Warna - Saturasi"
 
 msgctxt "#30031"
 msgid "Color Adjustment - Gamma"
-msgstr ""
+msgstr "Penyesuaian Warna - Gamma"
 
 msgctxt "#30032"
 msgid "Crop Vertical Overscan"
-msgstr ""
+msgstr "Pangkas Lebihan Pindai Menegak"
 
 msgctxt "#30033"
 msgid "Video"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "Change video output settings."
-msgstr ""
+msgstr "Ubah pengaturan keluaran video."
 
 msgctxt "#30035"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "1:1 PAR (Pixel Perfect)"
-msgstr ""
+msgstr "1:1 PAR (Piksel Sempurna)"
 
 msgctxt "#30037"
 msgid "4:3 DAR"
@@ -179,19 +179,19 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "0 Lines"
-msgstr ""
+msgstr "0 Garis"
 
 msgctxt "#30040"
 msgid "8 Lines"
-msgstr ""
+msgstr "8 Garis"
 
 msgctxt "#30041"
 msgid "12 Lines"
-msgstr ""
+msgstr "12 Garis"
 
 msgctxt "#30042"
 msgid "16 Lines"
-msgstr ""
+msgstr "16 Garis"
 
 msgctxt "#30043"
 msgid "Simulate the limited horizontal resolution of SDTVs by blurring together horizontally-adjacent pixels. Some games depend on this to emulate a transparency effect."
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "None"
-msgstr ""
+msgstr "Tak ada"
 
 msgctxt "#30048"
 msgid "NTSC (RF)"
@@ -231,7 +231,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Adjust Luminance"
-msgstr ""
+msgstr "Sesuaikan Serian"
 
 msgctxt "#30053"
 msgid "0%"
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "#30064"
 msgid "Adjust Saturation"
-msgstr ""
+msgstr "Sesuaikan Saturasi"
 
 msgctxt "#30065"
 msgid "110%"
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Adjust Gamma"
-msgstr ""
+msgstr "Sesuaikan Gamma"
 
 msgctxt "#30076"
 msgid "100%"
@@ -331,7 +331,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "150% (Default)"
-msgstr ""
+msgstr "150% (Bawaan)"
 
 msgctxt "#30078"
 msgid "Enable faster emulation of the PPU at the cost of a minor reduction of accuracy. It is recommended to leave this on. NOTE: this must be enabled for the 'Deinterlace', 'No Sprite Limit' and the 'HD Mode 7' options to work."
@@ -351,11 +351,11 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Audio"
-msgstr ""
+msgstr "Suara"
 
 msgctxt "#30083"
 msgid "Change audio output settings."
-msgstr ""
+msgstr "Ubah pengaturan keluaran audio."
 
 msgctxt "#30084"
 msgid "Enable faster emulation of the DSP at the cost of a minor reduction of accuracy. It is recommended to leave this on."
@@ -427,7 +427,7 @@ msgstr ""
 
 msgctxt "#30101"
 msgid "Emulation Hacks and Enhancements"
-msgstr ""
+msgstr "Retasan dan Peningkatan Emulasi"
 
 msgctxt "#30102"
 msgid "Apply emulation hacks, enhancements and hotfixes."
@@ -479,7 +479,7 @@ msgstr ""
 
 msgctxt "#30114"
 msgid "Change the speed of the emulated hardware."
-msgstr ""
+msgstr "Mengubah kecepatan emulasi peranti keras."
 
 msgctxt "#30115"
 msgid "Overclock or downclock the CPU. Setting this value above 100% may reduce loading times and remove slowdown. Use with caution as it may also cause some games to crash or exhibit other issues."
