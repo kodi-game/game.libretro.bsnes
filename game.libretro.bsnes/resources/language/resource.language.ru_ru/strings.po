@@ -103,7 +103,7 @@ msgstr "Энтропия (рандомизация)"
 
 msgctxt "#30020"
 msgid "CPU Fast Math"
-msgstr "Ускорение вычислений ЦП"
+msgstr "Ускорение вычислений CPU"
 
 msgctxt "#30021"
 msgid "Overclocking - CPU"
